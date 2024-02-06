@@ -1,0 +1,737 @@
+sample	samples	primary_therapy_outcome_success	gender	age_at_initial_pathologic_diagnosis	pathologic_stage	sample_type
+TCGA-AA-A01C-01	TCGA-AA-A01C-01	[Discrepancy]	MALE	75	Stage IIIA	Primary Tumor
+TCGA-CM-4747-01	TCGA-CM-4747-01	[Discrepancy]	MALE	47	Stage IVA	Primary Tumor
+TCGA-AA-A00O-01	TCGA-AA-A00O-01	[Discrepancy]	FEMALE	83	Stage IIIC	Primary Tumor
+TCGA-AA-3525-11	TCGA-AA-3525-11	Partial Remission/Response	MALE	90	Stage IIIB	Solid Tissue Normal
+TCGA-AA-3525-01	TCGA-AA-3525-01	Partial Remission/Response	MALE	90	Stage IIIB	Primary Tumor
+TCGA-AA-A00J-01	TCGA-AA-A00J-01	Partial Remission/Response	MALE	80	Stage IIIB	Primary Tumor
+TCGA-AA-A00W-01	TCGA-AA-A00W-01	Partial Remission/Response	MALE	80	Stage I	Primary Tumor
+TCGA-AA-3869-01	TCGA-AA-3869-01	Partial Remission/Response	MALE	76	Stage IV	Primary Tumor
+TCGA-AA-3713-11	TCGA-AA-3713-11	Partial Remission/Response	MALE	68	Stage IV	Solid Tissue Normal
+TCGA-AA-3713-01	TCGA-AA-3713-01	Partial Remission/Response	MALE	68	Stage IV	Primary Tumor
+TCGA-AG-A032-01	TCGA-AG-A032-01	Partial Remission/Response	MALE	68	Stage IIIB	Primary Tumor
+TCGA-AA-A00F-01	TCGA-AA-A00F-01	Partial Remission/Response	MALE	66	Stage IIIC	Primary Tumor
+TCGA-AG-A02G-01	TCGA-AG-A02G-01	Partial Remission/Response	MALE	66	Stage IV	Primary Tumor
+TCGA-RU-A8FL-01	TCGA-RU-A8FL-01	Partial Remission/Response	MALE	51	Stage IIIB	Primary Tumor
+TCGA-AA-A01R-11	TCGA-AA-A01R-11	Partial Remission/Response	MALE	47	Stage III	Solid Tissue Normal
+TCGA-AA-A01R-01	TCGA-AA-A01R-01	Partial Remission/Response	MALE	47	Stage III	Primary Tumor
+TCGA-NH-A50U-01	TCGA-NH-A50U-01	Partial Remission/Response	MALE	42	Stage IVA	Primary Tumor
+TCGA-AA-3662-11	TCGA-AA-3662-11	Partial Remission/Response	FEMALE	80	Stage IV	Solid Tissue Normal
+TCGA-AA-3662-01	TCGA-AA-3662-01	Partial Remission/Response	FEMALE	80	Stage IV	Primary Tumor
+TCGA-AA-A02F-01	TCGA-AA-A02F-01	Partial Remission/Response	FEMALE	68	Stage IV	Primary Tumor
+TCGA-AG-A01N-01	TCGA-AG-A01N-01	Partial Remission/Response	FEMALE	68	Stage IV	Primary Tumor
+TCGA-NH-A8F7-06	TCGA-NH-A8F7-06	Partial Remission/Response	FEMALE	53	Stage IIA	Metastatic
+TCGA-NH-A8F7-01	TCGA-NH-A8F7-01	Partial Remission/Response	FEMALE	53	Stage IIA	Primary Tumor
+TCGA-AZ-6606-01	TCGA-AZ-6606-01	Progressive Disease	MALE	81	Stage IV	Primary Tumor
+TCGA-AA-3688-01	TCGA-AA-3688-01	Progressive Disease	MALE	80	Stage IV	Primary Tumor
+TCGA-CA-6719-01	TCGA-CA-6719-01	Progressive Disease	MALE	77	Stage IIA	Primary Tumor
+TCGA-5M-AATE-01	TCGA-5M-AATE-01	Progressive Disease	MALE	76	Stage IIA	Primary Tumor
+TCGA-AG-A00H-01	TCGA-AG-A00H-01	Progressive Disease	MALE	75	Stage IIA	Primary Tumor
+TCGA-5M-AAT4-01	TCGA-5M-AAT4-01	Progressive Disease	MALE	74	Stage IV	Primary Tumor
+TCGA-AA-3972-01	TCGA-AA-3972-01	Progressive Disease	MALE	72	Stage IV	Primary Tumor
+TCGA-F5-6702-01	TCGA-F5-6702-01	Progressive Disease	MALE	71	Stage IVA	Primary Tumor
+TCGA-AA-A01Z-11	TCGA-AA-A01Z-11	Progressive Disease	MALE	68	Stage II	Solid Tissue Normal
+TCGA-AZ-6601-11	TCGA-AZ-6601-11	Progressive Disease	MALE	68	Stage II	Solid Tissue Normal
+TCGA-AA-A01Z-01	TCGA-AA-A01Z-01	Progressive Disease	MALE	68	Stage II	Primary Tumor
+TCGA-AZ-6601-01	TCGA-AZ-6601-01	Progressive Disease	MALE	68	Stage II	Primary Tumor
+TCGA-AA-3930-01	TCGA-AA-3930-01	Progressive Disease	MALE	66	Stage IV	Primary Tumor
+TCGA-AZ-6600-11	TCGA-AZ-6600-11	Progressive Disease	MALE	64	Stage IV	Solid Tissue Normal
+TCGA-AZ-6600-01	TCGA-AZ-6600-01	Progressive Disease	MALE	64	Stage IV	Primary Tumor
+TCGA-AG-3584-01	TCGA-AG-3584-01	Progressive Disease	MALE	60	Stage IV	Primary Tumor
+TCGA-AA-3679-01	TCGA-AA-3679-01	Progressive Disease	MALE	59	Stage IV	Primary Tumor
+TCGA-NH-A6GA-01	TCGA-NH-A6GA-01	Progressive Disease	MALE	58	Stage IIIC	Primary Tumor
+TCGA-AD-6964-01	TCGA-AD-6964-01	Progressive Disease	MALE	58		Primary Tumor
+TCGA-AG-A016-01	TCGA-AG-A016-01	Progressive Disease	MALE	55	Stage IV	Primary Tumor
+TCGA-AA-A02K-01	TCGA-AA-A02K-01	Progressive Disease	MALE	50	Stage IV	Primary Tumor
+TCGA-AF-6672-01	TCGA-AF-6672-01	Progressive Disease	MALE	43	Stage IV	Primary Tumor
+TCGA-AA-3844-01	TCGA-AA-3844-01	Progressive Disease	FEMALE	78	Stage IIIC	Primary Tumor
+TCGA-AF-6136-01	TCGA-AF-6136-01	Progressive Disease	FEMALE	72	Stage IIIB	Primary Tumor
+TCGA-NH-A6GB-01	TCGA-NH-A6GB-01	Progressive Disease	FEMALE	71	Stage IIIC	Primary Tumor
+TCGA-CK-5916-01	TCGA-CK-5916-01	Progressive Disease	FEMALE	71	Stage I	Primary Tumor
+TCGA-AA-3680-01	TCGA-AA-3680-01	Progressive Disease	FEMALE	67	Stage IV	Primary Tumor
+TCGA-AG-3999-01	TCGA-AG-3999-01	Progressive Disease	FEMALE	61	Stage IIIC	Primary Tumor
+TCGA-D5-5538-01	TCGA-D5-5538-01	Progressive Disease	FEMALE	60	Stage IIIB	Primary Tumor
+TCGA-AZ-6608-01	TCGA-AZ-6608-01	Progressive Disease	FEMALE	55	Stage IIIA	Primary Tumor
+TCGA-A6-A566-01	TCGA-A6-A566-01	Progressive Disease	FEMALE	55	Stage IIIB	Primary Tumor
+TCGA-AA-A01D-01	TCGA-AA-A01D-01	Progressive Disease	FEMALE	47	Stage IIIC	Primary Tumor
+TCGA-AA-3692-01	TCGA-AA-3692-01	Progressive Disease	FEMALE	47	Stage IV	Primary Tumor
+TCGA-CI-6620-01	TCGA-CI-6620-01	Progressive Disease	FEMALE	41	Stage IVA	Primary Tumor
+TCGA-5M-AAT6-01	TCGA-5M-AAT6-01	Progressive Disease	FEMALE	40	Stage IV	Primary Tumor
+TCGA-A6-A565-01	TCGA-A6-A565-01	Progressive Disease	FEMALE	34	Stage IIIC	Primary Tumor
+TCGA-AZ-6605-11	TCGA-AZ-6605-11	Stable Disease	MALE	77	Stage IIIB	Solid Tissue Normal
+TCGA-AZ-6605-01	TCGA-AZ-6605-01	Stable Disease	MALE	77	Stage IIIB	Primary Tumor
+TCGA-AA-3973-01	TCGA-AA-3973-01	Stable Disease	MALE	69	Stage IV	Primary Tumor
+TCGA-4N-A93T-01	TCGA-4N-A93T-01	Stable Disease	MALE	67	Stage IIIB	Primary Tumor
+TCGA-AH-6544-01	TCGA-AH-6544-01	Stable Disease	MALE	60		Primary Tumor
+TCGA-CK-4947-01	TCGA-CK-4947-01	Stable Disease	FEMALE	46	Stage IIIB	Primary Tumor
+TCGA-AA-3524-11	TCGA-AA-3524-11	Complete Remission/Response	MALE	85	Stage II	Solid Tissue Normal
+TCGA-AA-3524-01	TCGA-AA-3524-01	Complete Remission/Response	MALE	85	Stage II	Primary Tumor
+TCGA-AA-3552-01	TCGA-AA-3552-01	Complete Remission/Response	MALE	85	Stage IIIC	Primary Tumor
+TCGA-AA-3675-01	TCGA-AA-3675-01	Complete Remission/Response	MALE	84	Stage II	Primary Tumor
+TCGA-AD-6899-01	TCGA-AD-6899-01	Complete Remission/Response	MALE	84	Stage IIIC	Primary Tumor
+TCGA-AA-3979-01	TCGA-AA-3979-01	Complete Remission/Response	MALE	84	Stage IIA	Primary Tumor
+TCGA-G4-6627-01	TCGA-G4-6627-01	Complete Remission/Response	MALE	84	Stage IIA	Primary Tumor
+TCGA-AD-6895-01	TCGA-AD-6895-01	Complete Remission/Response	MALE	84	Stage IIIB	Primary Tumor
+TCGA-D5-5537-01	TCGA-D5-5537-01	Complete Remission/Response	MALE	83	Stage IIA	Primary Tumor
+TCGA-A6-6782-01	TCGA-A6-6782-01	Complete Remission/Response	MALE	82	Stage IIB	Primary Tumor
+TCGA-AA-3862-01	TCGA-AA-3862-01	Complete Remission/Response	MALE	82	Stage IIA	Primary Tumor
+TCGA-T9-A92H-01	TCGA-T9-A92H-01	Complete Remission/Response	MALE	82	Stage IIA	Primary Tumor
+TCGA-A6-5659-11	TCGA-A6-5659-11	Complete Remission/Response	MALE	82	Stage I	Solid Tissue Normal
+TCGA-A6-5659-01	TCGA-A6-5659-01	Complete Remission/Response	MALE	82	Stage I	Primary Tumor
+TCGA-A6-6653-01	TCGA-A6-6653-01	Complete Remission/Response	MALE	82	Stage I	Primary Tumor
+TCGA-AA-A024-01	TCGA-AA-A024-01	Complete Remission/Response	MALE	81	Stage II	Primary Tumor
+TCGA-CK-5912-01	TCGA-CK-5912-01	Complete Remission/Response	MALE	81	Stage I	Primary Tumor
+TCGA-AA-3530-01	TCGA-AA-3530-01	Complete Remission/Response	MALE	80	Stage I	Primary Tumor
+TCGA-AA-3975-01	TCGA-AA-3975-01	Complete Remission/Response	MALE	80	Stage I	Primary Tumor
+TCGA-AA-3495-11	TCGA-AA-3495-11	Complete Remission/Response	MALE	79	Stage I	Solid Tissue Normal
+TCGA-AA-3495-01	TCGA-AA-3495-01	Complete Remission/Response	MALE	79	Stage I	Primary Tumor
+TCGA-A6-5666-01	TCGA-A6-5666-01	Complete Remission/Response	MALE	78	Stage IIC	Primary Tumor
+TCGA-A6-2675-11	TCGA-A6-2675-11	Complete Remission/Response	MALE	78	Stage IIA	Solid Tissue Normal
+TCGA-A6-2675-01	TCGA-A6-2675-01	Complete Remission/Response	MALE	78	Stage IIA	Primary Tumor
+TCGA-G4-6628-01	TCGA-G4-6628-01	Complete Remission/Response	MALE	78	Stage I	Primary Tumor
+TCGA-AD-6901-01	TCGA-AD-6901-01	Complete Remission/Response	MALE	78		Primary Tumor
+TCGA-AF-4110-01	TCGA-AF-4110-01	Complete Remission/Response	MALE	77	Stage IVA	Primary Tumor
+TCGA-AA-A004-01	TCGA-AA-A004-01	Complete Remission/Response	MALE	76	Stage IIA	Primary Tumor
+TCGA-AA-A01I-01	TCGA-AA-A01I-01	Complete Remission/Response	MALE	76	Stage I	Primary Tumor
+TCGA-A6-6780-01	TCGA-A6-6780-01	Complete Remission/Response	MALE	74	Stage IIA	Primary Tumor
+TCGA-AG-3893-01	TCGA-AG-3893-01	Complete Remission/Response	MALE	74	Stage IIIB	Primary Tumor
+TCGA-A6-5656-01	TCGA-A6-5656-01	Complete Remission/Response	MALE	74	Stage I	Primary Tumor
+TCGA-A6-5660-01	TCGA-A6-5660-01	Complete Remission/Response	MALE	73	Stage IIIC	Primary Tumor
+TCGA-D5-5540-01	TCGA-D5-5540-01	Complete Remission/Response	MALE	73	Stage IIA	Primary Tumor
+TCGA-AD-6888-01	TCGA-AD-6888-01	Complete Remission/Response	MALE	73	Stage IIIB	Primary Tumor
+TCGA-AG-3728-01	TCGA-AG-3728-01	Complete Remission/Response	MALE	73	Stage IIIB	Primary Tumor
+TCGA-BM-6198-01	TCGA-BM-6198-01	Complete Remission/Response	MALE	73	Stage IIIB	Primary Tumor
+TCGA-AA-3502-11	TCGA-AA-3502-11	Complete Remission/Response	MALE	73	Stage I	Solid Tissue Normal
+TCGA-AA-3502-01	TCGA-AA-3502-01	Complete Remission/Response	MALE	73	Stage I	Primary Tumor
+TCGA-AA-3986-01	TCGA-AA-3986-01	Complete Remission/Response	MALE	73	Stage I	Primary Tumor
+TCGA-AA-A02Y-01	TCGA-AA-A02Y-01	Complete Remission/Response	MALE	73	Stage I	Primary Tumor
+TCGA-AH-6644-01	TCGA-AH-6644-01	Complete Remission/Response	MALE	73		Primary Tumor
+TCGA-AA-3561-01	TCGA-AA-3561-01	Complete Remission/Response	MALE	72	Stage IIA	Primary Tumor
+TCGA-AA-3861-01	TCGA-AA-3861-01	Complete Remission/Response	MALE	72	Stage IIA	Primary Tumor
+TCGA-AG-3611-01	TCGA-AG-3611-01	Complete Remission/Response	MALE	72	Stage IIA	Primary Tumor
+TCGA-AZ-6599-11	TCGA-AZ-6599-11	Complete Remission/Response	MALE	72	Stage I	Solid Tissue Normal
+TCGA-AZ-6599-01	TCGA-AZ-6599-01	Complete Remission/Response	MALE	72	Stage I	Primary Tumor
+TCGA-AG-A036-11	TCGA-AG-A036-11	Complete Remission/Response	MALE	71	Stage III	Solid Tissue Normal
+TCGA-AG-A036-01	TCGA-AG-A036-01	Complete Remission/Response	MALE	71	Stage III	Primary Tumor
+TCGA-AA-3864-01	TCGA-AA-3864-01	Complete Remission/Response	MALE	71	Stage II	Primary Tumor
+TCGA-A6-2674-11	TCGA-A6-2674-11	Complete Remission/Response	MALE	71	Stage IV	Solid Tissue Normal
+TCGA-A6-2674-01	TCGA-A6-2674-01	Complete Remission/Response	MALE	71	Stage IV	Primary Tumor
+TCGA-AA-3976-01	TCGA-AA-3976-01	Complete Remission/Response	MALE	70	Stage IIIA	Primary Tumor
+TCGA-AA-3510-11	TCGA-AA-3510-11	Complete Remission/Response	MALE	70	Stage II	Solid Tissue Normal
+TCGA-AA-3510-01	TCGA-AA-3510-01	Complete Remission/Response	MALE	70	Stage II	Primary Tumor
+TCGA-AA-A00Z-01	TCGA-AA-A00Z-01	Complete Remission/Response	MALE	70	Stage IIA	Primary Tumor
+TCGA-AA-3558-01	TCGA-AA-3558-01	Complete Remission/Response	MALE	70	Stage I	Primary Tumor
+TCGA-AA-A00D-01	TCGA-AA-A00D-01	Complete Remission/Response	MALE	70	Stage I	Primary Tumor
+TCGA-AA-3685-01	TCGA-AA-3685-01	Complete Remission/Response	MALE	69	Stage II	Primary Tumor
+TCGA-AA-3542-01	TCGA-AA-3542-01	Complete Remission/Response	MALE	69	Stage IIIC	Primary Tumor
+TCGA-AZ-6607-01	TCGA-AZ-6607-01	Complete Remission/Response	MALE	69	Stage IV	Primary Tumor
+TCGA-CM-4743-01	TCGA-CM-4743-01	Complete Remission/Response	MALE	69	Stage IIA	Primary Tumor
+TCGA-AA-3994-01	TCGA-AA-3994-01	Complete Remission/Response	MALE	69	Stage IIIB	Primary Tumor
+TCGA-G4-6310-01	TCGA-G4-6310-01	Complete Remission/Response	MALE	69	Stage IIIB	Primary Tumor
+TCGA-NH-A50V-01	TCGA-NH-A50V-01	Complete Remission/Response	MALE	69	Stage IIIB	Primary Tumor
+TCGA-AA-3549-01	TCGA-AA-3549-01	Complete Remission/Response	MALE	69	Stage I	Primary Tumor
+TCGA-CM-4744-01	TCGA-CM-4744-01	Complete Remission/Response	MALE	69	Stage I	Primary Tumor
+TCGA-AA-3655-11	TCGA-AA-3655-11	Complete Remission/Response	MALE	68	Stage II	Solid Tissue Normal
+TCGA-AA-3655-01	TCGA-AA-3655-01	Complete Remission/Response	MALE	68	Stage II	Primary Tumor
+TCGA-AG-A00Y-01	TCGA-AG-A00Y-01	Complete Remission/Response	MALE	68	Stage IIA	Primary Tumor
+TCGA-AA-3544-01	TCGA-AA-3544-01	Complete Remission/Response	MALE	68	Stage I	Primary Tumor
+TCGA-AA-A029-01	TCGA-AA-A029-01	Complete Remission/Response	MALE	67	Stage II	Primary Tumor
+TCGA-AA-3522-11	TCGA-AA-3522-11	Complete Remission/Response	MALE	67	Stage IIA	Solid Tissue Normal
+TCGA-AA-3522-01	TCGA-AA-3522-01	Complete Remission/Response	MALE	67	Stage IIA	Primary Tumor
+TCGA-AA-3837-01	TCGA-AA-3837-01	Complete Remission/Response	MALE	67	Stage IIA	Primary Tumor
+TCGA-F5-6812-01	TCGA-F5-6812-01	Complete Remission/Response	MALE	67	Stage IIA	Primary Tumor
+TCGA-AA-3858-01	TCGA-AA-3858-01	Complete Remission/Response	MALE	67	Stage I	Primary Tumor
+TCGA-AD-5900-01	TCGA-AD-5900-01	Complete Remission/Response	MALE	67	Stage I	Primary Tumor
+TCGA-AF-6655-01	TCGA-AF-6655-01	Complete Remission/Response	MALE	66	Stage IIIA	Primary Tumor
+TCGA-G4-6315-01	TCGA-G4-6315-01	Complete Remission/Response	MALE	66	Stage IV	Primary Tumor
+TCGA-AA-3831-01	TCGA-AA-3831-01	Complete Remission/Response	MALE	66	Stage IIA	Primary Tumor
+TCGA-AA-3841-01	TCGA-AA-3841-01	Complete Remission/Response	MALE	66	Stage IIA	Primary Tumor
+TCGA-AA-A00L-01	TCGA-AA-A00L-01	Complete Remission/Response	MALE	66	Stage IIA	Primary Tumor
+TCGA-A6-6649-01	TCGA-A6-6649-01	Complete Remission/Response	MALE	66	Stage IIIB	Primary Tumor
+TCGA-AH-6549-01	TCGA-AH-6549-01	Complete Remission/Response	MALE	66		Primary Tumor
+TCGA-AG-3731-11	TCGA-AG-3731-11	Complete Remission/Response	MALE	65	Stage IV	Solid Tissue Normal
+TCGA-AG-3731-01	TCGA-AG-3731-01	Complete Remission/Response	MALE	65	Stage IV	Primary Tumor
+TCGA-AA-3970-01	TCGA-AA-3970-01	Complete Remission/Response	MALE	65	Stage IIA	Primary Tumor
+TCGA-AA-A00E-01	TCGA-AA-A00E-01	Complete Remission/Response	MALE	65	Stage IIA	Primary Tumor
+TCGA-AG-3894-01	TCGA-AG-3894-01	Complete Remission/Response	MALE	65	Stage IIA	Primary Tumor
+TCGA-CA-6716-01	TCGA-CA-6716-01	Complete Remission/Response	MALE	65	Stage IIA	Primary Tumor
+TCGA-A6-5657-01	TCGA-A6-5657-01	Complete Remission/Response	MALE	65	Stage IIIB	Primary Tumor
+TCGA-AA-3977-01	TCGA-AA-3977-01	Complete Remission/Response	MALE	65		Primary Tumor
+TCGA-AD-6890-01	TCGA-AD-6890-01	Complete Remission/Response	MALE	65		Primary Tumor
+TCGA-AA-3511-11	TCGA-AA-3511-11	Complete Remission/Response	MALE	64	Stage II	Solid Tissue Normal
+TCGA-AA-3511-01	TCGA-AA-3511-01	Complete Remission/Response	MALE	64	Stage II	Primary Tumor
+TCGA-AG-4005-01	TCGA-AG-4005-01	Complete Remission/Response	MALE	64	Stage IV	Primary Tumor
+TCGA-F4-6703-01	TCGA-F4-6703-01	Complete Remission/Response	MALE	64	Stage IIA	Primary Tumor
+TCGA-AA-3519-11	TCGA-AA-3519-11	Complete Remission/Response	MALE	63	Stage III	Solid Tissue Normal
+TCGA-AA-3519-01	TCGA-AA-3519-01	Complete Remission/Response	MALE	63	Stage III	Primary Tumor
+TCGA-AA-A01G-01	TCGA-AA-A01G-01	Complete Remission/Response	MALE	63	Stage IIA	Primary Tumor
+TCGA-AG-4008-01	TCGA-AG-4008-01	Complete Remission/Response	MALE	63	Stage IIA	Primary Tumor
+TCGA-CA-6715-01	TCGA-CA-6715-01	Complete Remission/Response	MALE	63	Stage IIIB	Primary Tumor
+TCGA-D5-5541-01	TCGA-D5-5541-01	Complete Remission/Response	MALE	63	Stage IIIB	Primary Tumor
+TCGA-AD-6965-01	TCGA-AD-6965-01	Complete Remission/Response	MALE	62	Stage IIIC	Primary Tumor
+TCGA-AG-3600-01	TCGA-AG-3600-01	Complete Remission/Response	MALE	62	Stage IIIC	Primary Tumor
+TCGA-A6-3810-11	TCGA-A6-3810-11	Complete Remission/Response	MALE	62	Stage IIA	Solid Tissue Normal
+TCGA-A6-3810-01	TCGA-A6-3810-01	Complete Remission/Response	MALE	62	Stage IIA	Primary Tumor
+TCGA-A6-6140-01	TCGA-A6-6140-01	Complete Remission/Response	MALE	62	Stage IIA	Primary Tumor
+TCGA-CM-4751-01	TCGA-CM-4751-01	Complete Remission/Response	MALE	62	Stage IIIB	Primary Tumor
+TCGA-CM-4746-01	TCGA-CM-4746-01	Complete Remission/Response	MALE	61	Stage I	Primary Tumor
+TCGA-QG-A5Z2-01	TCGA-QG-A5Z2-01	Complete Remission/Response	MALE	61	Stage I	Primary Tumor
+TCGA-AA-3517-11	TCGA-AA-3517-11	Complete Remission/Response	MALE	60	Stage IIA	Solid Tissue Normal
+TCGA-AA-3517-01	TCGA-AA-3517-01	Complete Remission/Response	MALE	60	Stage IIA	Primary Tumor
+TCGA-AY-6197-01	TCGA-AY-6197-01	Complete Remission/Response	MALE	60	Stage IIA	Primary Tumor
+TCGA-F4-6569-01	TCGA-F4-6569-01	Complete Remission/Response	MALE	60	Stage I	Primary Tumor
+TCGA-A6-A5ZU-01	TCGA-A6-A5ZU-01	Complete Remission/Response	MALE	59	Stage IIIB	Primary Tumor
+TCGA-AA-3971-01	TCGA-AA-3971-01	Complete Remission/Response	MALE	58	Stage III	Primary Tumor
+TCGA-CM-4752-01	TCGA-CM-4752-01	Complete Remission/Response	MALE	58	Stage IIA	Primary Tumor
+TCGA-AD-6963-01	TCGA-AD-6963-01	Complete Remission/Response	MALE	58		Primary Tumor
+TCGA-AF-2687-01	TCGA-AF-2687-01	Complete Remission/Response	MALE	57	Stage IIIC	Primary Tumor
+TCGA-CA-6717-01	TCGA-CA-6717-01	Complete Remission/Response	MALE	57	Stage IIA	Primary Tumor
+TCGA-F5-6814-01	TCGA-F5-6814-01	Complete Remission/Response	MALE	57	Stage IIA	Primary Tumor
+TCGA-A6-A56B-01	TCGA-A6-A56B-01	Complete Remission/Response	MALE	57	Stage IIIB	Primary Tumor
+TCGA-AA-3526-11	TCGA-AA-3526-11	Complete Remission/Response	MALE	57	Stage I	Solid Tissue Normal
+TCGA-AA-3526-01	TCGA-AA-3526-01	Complete Remission/Response	MALE	57	Stage I	Primary Tumor
+TCGA-DC-4749-01	TCGA-DC-4749-01	Complete Remission/Response	MALE	57	Stage I	Primary Tumor
+TCGA-AF-A56K-01	TCGA-AF-A56K-01	Complete Remission/Response	MALE	56	Stage IIA	Primary Tumor
+TCGA-CA-5797-01	TCGA-CA-5797-01	Complete Remission/Response	MALE	56	Stage IIA	Primary Tumor
+TCGA-A6-6137-01	TCGA-A6-6137-01	Complete Remission/Response	MALE	55	Stage IIIB	Primary Tumor
+TCGA-CM-4748-01	TCGA-CM-4748-01	Complete Remission/Response	MALE	53	Stage IIIB	Primary Tumor
+TCGA-AA-3842-01	TCGA-AA-3842-01	Complete Remission/Response	MALE	51	Stage IIIA	Primary Tumor
+TCGA-DT-5265-01	TCGA-DT-5265-01	Complete Remission/Response	MALE	51	Stage II	Primary Tumor
+TCGA-F4-6463-01	TCGA-F4-6463-01	Complete Remission/Response	MALE	51	Stage IIA	Primary Tumor
+TCGA-AD-A5EK-01	TCGA-AD-A5EK-01	Complete Remission/Response	MALE	51	Stage I	Primary Tumor
+TCGA-AH-6643-11	TCGA-AH-6643-11	Complete Remission/Response	MALE	50	Stage IIIC	Solid Tissue Normal
+TCGA-AH-6643-01	TCGA-AH-6643-01	Complete Remission/Response	MALE	50	Stage IIIC	Primary Tumor
+TCGA-AA-A00U-01	TCGA-AA-A00U-01	Complete Remission/Response	MALE	50	Stage IIIB	Primary Tumor
+TCGA-AF-3911-01	TCGA-AF-3911-01	Complete Remission/Response	MALE	48	Stage IIIC	Primary Tumor
+TCGA-AH-6897-01	TCGA-AH-6897-01	Complete Remission/Response	MALE	48	Stage I	Primary Tumor
+TCGA-CA-6718-01	TCGA-CA-6718-01	Complete Remission/Response	MALE	46	Stage IIA	Primary Tumor
+TCGA-AH-6903-01	TCGA-AH-6903-01	Complete Remission/Response	MALE	46	Stage IIIB	Primary Tumor
+TCGA-CA-5255-01	TCGA-CA-5255-01	Complete Remission/Response	MALE	45	Stage IIA	Primary Tumor
+TCGA-F4-6856-01	TCGA-F4-6856-01	Complete Remission/Response	MALE	45	Stage I	Primary Tumor
+TCGA-AY-A8YK-01	TCGA-AY-A8YK-01	Complete Remission/Response	MALE	44	Stage IVA	Primary Tumor
+TCGA-A6-6781-01	TCGA-A6-6781-01	Complete Remission/Response	MALE	43	Stage IIIC	Primary Tumor
+TCGA-AA-3663-11	TCGA-AA-3663-11	Complete Remission/Response	MALE	42	Stage II	Solid Tissue Normal
+TCGA-AA-3663-01	TCGA-AA-3663-01	Complete Remission/Response	MALE	42	Stage II	Primary Tumor
+TCGA-AF-3914-01	TCGA-AF-3914-01	Complete Remission/Response	MALE	39	Stage IIIB	Primary Tumor
+TCGA-AA-3955-01	TCGA-AA-3955-01	Complete Remission/Response	MALE	38	Stage IIIB	Primary Tumor
+TCGA-AG-A002-01	TCGA-AG-A002-01	Complete Remission/Response	MALE	35	Stage I	Primary Tumor
+TCGA-CL-5918-01	TCGA-CL-5918-01	Complete Remission/Response	FEMALE	90	Stage IIA	Primary Tumor
+TCGA-NH-A5IV-01	TCGA-NH-A5IV-01	Complete Remission/Response	FEMALE	90	Stage IIA	Primary Tumor
+TCGA-AA-3980-01	TCGA-AA-3980-01	Complete Remission/Response	FEMALE	89	Stage I	Primary Tumor
+TCGA-CK-6747-01	TCGA-CK-6747-01	Complete Remission/Response	FEMALE	87	Stage IIA	Primary Tumor
+TCGA-AA-3949-01	TCGA-AA-3949-01	Complete Remission/Response	FEMALE	87	Stage IIIB	Primary Tumor
+TCGA-QL-A97D-01	TCGA-QL-A97D-01	Complete Remission/Response	FEMALE	84	Stage I	Primary Tumor
+TCGA-AA-3877-01	TCGA-AA-3877-01	Complete Remission/Response	FEMALE	83	Stage I	Primary Tumor
+TCGA-CM-5341-01	TCGA-CM-5341-01	Complete Remission/Response	FEMALE	82	Stage IIIA	Primary Tumor
+TCGA-AA-3812-01	TCGA-AA-3812-01	Complete Remission/Response	FEMALE	82	Stage IIA	Primary Tumor
+TCGA-A6-2672-11	TCGA-A6-2672-11	Complete Remission/Response	FEMALE	82	Stage IIIB	Solid Tissue Normal
+TCGA-A6-2672-01	TCGA-A6-2672-01	Complete Remission/Response	FEMALE	82	Stage IIIB	Primary Tumor
+TCGA-A6-2686-11	TCGA-A6-2686-11	Complete Remission/Response	FEMALE	81	Stage IIA	Solid Tissue Normal
+TCGA-A6-2686-01	TCGA-A6-2686-01	Complete Remission/Response	FEMALE	81	Stage IIA	Primary Tumor
+TCGA-AA-3555-01	TCGA-AA-3555-01	Complete Remission/Response	FEMALE	81	Stage IIA	Primary Tumor
+TCGA-AD-6548-01	TCGA-AD-6548-01	Complete Remission/Response	FEMALE	81	Stage I	Primary Tumor
+TCGA-A6-5661-01	TCGA-A6-5661-01	Complete Remission/Response	FEMALE	80	Stage IIA	Primary Tumor
+TCGA-AA-3710-01	TCGA-AA-3710-01	Complete Remission/Response	FEMALE	80	Stage IIA	Primary Tumor
+TCGA-CL-4957-01	TCGA-CL-4957-01	Complete Remission/Response	FEMALE	79	[Discrepancy]	Primary Tumor
+TCGA-AA-3950-01	TCGA-AA-3950-01	Complete Remission/Response	FEMALE	79	Stage IIA	Primary Tumor
+TCGA-AZ-4681-01	TCGA-AZ-4681-01	Complete Remission/Response	FEMALE	79	Stage IIA	Primary Tumor
+TCGA-AH-6547-01	TCGA-AH-6547-01	Complete Remission/Response	FEMALE	79		Primary Tumor
+TCGA-AA-3534-11	TCGA-AA-3534-11	Complete Remission/Response	FEMALE	78	Stage IIA	Solid Tissue Normal
+TCGA-AA-3534-01	TCGA-AA-3534-01	Complete Remission/Response	FEMALE	78	Stage IIA	Primary Tumor
+TCGA-AG-3732-11	TCGA-AG-3732-11	Complete Remission/Response	FEMALE	78	Stage I	Solid Tissue Normal
+TCGA-AA-3866-01	TCGA-AA-3866-01	Complete Remission/Response	FEMALE	78	Stage I	Primary Tumor
+TCGA-AG-3732-01	TCGA-AG-3732-01	Complete Remission/Response	FEMALE	78	Stage I	Primary Tumor
+TCGA-AA-3681-01	TCGA-AA-3681-01	Complete Remission/Response	FEMALE	77	Stage III	Primary Tumor
+TCGA-AZ-6598-11	TCGA-AZ-6598-11	Complete Remission/Response	FEMALE	77	Stage II	Solid Tissue Normal
+TCGA-AZ-6598-01	TCGA-AZ-6598-01	Complete Remission/Response	FEMALE	77	Stage II	Primary Tumor
+TCGA-F4-6854-01	TCGA-F4-6854-01	Complete Remission/Response	FEMALE	77	Stage IIA	Primary Tumor
+TCGA-AZ-6603-11	TCGA-AZ-6603-11	Complete Remission/Response	FEMALE	77		Solid Tissue Normal
+TCGA-AZ-6603-01	TCGA-AZ-6603-01	Complete Remission/Response	FEMALE	77		Primary Tumor
+TCGA-A6-2676-11	TCGA-A6-2676-11	Complete Remission/Response	FEMALE	75	Stage IIB	Solid Tissue Normal
+TCGA-A6-2676-01	TCGA-A6-2676-01	Complete Remission/Response	FEMALE	75	Stage IIB	Primary Tumor
+TCGA-AA-3531-11	TCGA-AA-3531-11	Complete Remission/Response	FEMALE	75	Stage IIA	Solid Tissue Normal
+TCGA-AA-3531-01	TCGA-AA-3531-01	Complete Remission/Response	FEMALE	75	Stage IIA	Primary Tumor
+TCGA-AA-A01K-01	TCGA-AA-A01K-01	Complete Remission/Response	FEMALE	74	Stage IIIC	Primary Tumor
+TCGA-AY-A54L-01	TCGA-AY-A54L-01	Complete Remission/Response	FEMALE	74	Stage I	Primary Tumor
+TCGA-A6-2679-11	TCGA-A6-2679-11	Complete Remission/Response	FEMALE	73	Stage IIB	Solid Tissue Normal
+TCGA-A6-2679-01	TCGA-A6-2679-01	Complete Remission/Response	FEMALE	73	Stage IIB	Primary Tumor
+TCGA-A6-2681-11	TCGA-A6-2681-11	Complete Remission/Response	FEMALE	73	Stage IIA	Solid Tissue Normal
+TCGA-A6-2681-01	TCGA-A6-2681-01	Complete Remission/Response	FEMALE	73	Stage IIA	Primary Tumor
+TCGA-AA-A02W-01	TCGA-AA-A02W-01	Complete Remission/Response	FEMALE	73	Stage I	Primary Tumor
+TCGA-A6-2680-11	TCGA-A6-2680-11	Complete Remission/Response	FEMALE	72	Stage II	Solid Tissue Normal
+TCGA-A6-2680-01	TCGA-A6-2680-01	Complete Remission/Response	FEMALE	72	Stage II	Primary Tumor
+TCGA-AA-3560-01	TCGA-AA-3560-01	Complete Remission/Response	FEMALE	72	Stage IIIC	Primary Tumor
+TCGA-AG-3593-01	TCGA-AG-3593-01	Complete Remission/Response	FEMALE	72	Stage IIA	Primary Tumor
+TCGA-F5-6811-01	TCGA-F5-6811-01	Complete Remission/Response	FEMALE	72	Stage IIA	Primary Tumor
+TCGA-AA-3548-01	TCGA-AA-3548-01	Complete Remission/Response	FEMALE	71	Stage IIIC	Primary Tumor
+TCGA-CL-5917-01	TCGA-CL-5917-01	Complete Remission/Response	FEMALE	71	Stage IIIC	Primary Tumor
+TCGA-AA-3870-01	TCGA-AA-3870-01	Complete Remission/Response	FEMALE	71	Stage IV	Primary Tumor
+TCGA-AG-3885-01	TCGA-AG-3885-01	Complete Remission/Response	FEMALE	71	Stage IIIB	Primary Tumor
+TCGA-AA-3854-01	TCGA-AA-3854-01	Complete Remission/Response	FEMALE	71	Stage I	Primary Tumor
+TCGA-F4-6855-01	TCGA-F4-6855-01	Complete Remission/Response	FEMALE	70	Stage IIA	Primary Tumor
+TCGA-AG-3909-01	TCGA-AG-3909-01	Complete Remission/Response	FEMALE	69	Stage IIIB	Primary Tumor
+TCGA-D5-6533-01	TCGA-D5-6533-01	Complete Remission/Response	FEMALE	68	[Discrepancy]	Primary Tumor
+TCGA-NH-A50T-01	TCGA-NH-A50T-01	Complete Remission/Response	FEMALE	68	Stage IIA	Primary Tumor
+TCGA-CK-4950-01	TCGA-CK-4950-01	Complete Remission/Response	FEMALE	68	Stage IIIB	Primary Tumor
+TCGA-AG-3591-01	TCGA-AG-3591-01	Complete Remission/Response	FEMALE	66	Stage IIA	Primary Tumor
+TCGA-AA-A00Q-01	TCGA-AA-A00Q-01	Complete Remission/Response	FEMALE	66	Stage IIIB	Primary Tumor
+TCGA-AY-6386-01	TCGA-AY-6386-01	Complete Remission/Response	FEMALE	66	Stage IIIB	Primary Tumor
+TCGA-AY-5543-01	TCGA-AY-5543-01	Complete Remission/Response	FEMALE	65	Stage IVA	Primary Tumor
+TCGA-AG-3609-01	TCGA-AG-3609-01	Complete Remission/Response	FEMALE	65	Stage IIIC	Primary Tumor
+TCGA-AA-3815-01	TCGA-AA-3815-01	Complete Remission/Response	FEMALE	65	Stage IIA	Primary Tumor
+TCGA-A6-6654-01	TCGA-A6-6654-01	Complete Remission/Response	FEMALE	65	Stage IIIB	Primary Tumor
+TCGA-AA-A03J-11	TCGA-AA-A03J-11	Complete Remission/Response	FEMALE	65	Stage I	Solid Tissue Normal
+TCGA-AA-A03J-01	TCGA-AA-A03J-01	Complete Remission/Response	FEMALE	65	Stage I	Primary Tumor
+TCGA-QG-A5YV-01	TCGA-QG-A5YV-01	Complete Remission/Response	FEMALE	64	Stage IIIC	Primary Tumor
+TCGA-F5-6465-01	TCGA-F5-6465-01	Complete Remission/Response	FEMALE	64	Stage IIA	Primary Tumor
+TCGA-AA-A01T-11	TCGA-AA-A01T-11	Complete Remission/Response	FEMALE	63	Stage III	Solid Tissue Normal
+TCGA-AA-A01T-01	TCGA-AA-A01T-01	Complete Remission/Response	FEMALE	63	Stage III	Primary Tumor
+TCGA-AA-3833-01	TCGA-AA-3833-01	Complete Remission/Response	FEMALE	63	Stage IIA	Primary Tumor
+TCGA-AA-3554-01	TCGA-AA-3554-01	Complete Remission/Response	FEMALE	62	Stage IIA	Primary Tumor
+TCGA-D5-6534-01	TCGA-D5-6534-01	Complete Remission/Response	FEMALE	62	Stage IIA	Primary Tumor
+TCGA-F5-6571-01	TCGA-F5-6571-01	Complete Remission/Response	FEMALE	62	Stage IIA	Primary Tumor
+TCGA-QG-A5YX-01	TCGA-QG-A5YX-01	Complete Remission/Response	FEMALE	61	Stage IIA	Primary Tumor
+TCGA-3L-AA1B-01	TCGA-3L-AA1B-01	Complete Remission/Response	FEMALE	61	Stage I	Primary Tumor
+TCGA-AA-3553-01	TCGA-AA-3553-01	Complete Remission/Response	FEMALE	61	Stage I	Primary Tumor
+TCGA-AA-3678-01	TCGA-AA-3678-01	Complete Remission/Response	FEMALE	60	Stage III	Primary Tumor
+TCGA-AA-3947-01	TCGA-AA-3947-01	Complete Remission/Response	FEMALE	60	Stage IIB	Primary Tumor
+TCGA-F5-6861-01	TCGA-F5-6861-01	Complete Remission/Response	FEMALE	60	Stage IIA	Primary Tumor
+TCGA-AG-4022-01	TCGA-AG-4022-01	Complete Remission/Response	FEMALE	59	Stage II	Primary Tumor
+TCGA-F4-6806-01	TCGA-F4-6806-01	Complete Remission/Response	FEMALE	59	Stage I	Primary Tumor
+TCGA-CK-5913-01	TCGA-CK-5913-01	Complete Remission/Response	FEMALE	58	Stage IIA	Primary Tumor
+TCGA-F4-6805-01	TCGA-F4-6805-01	Complete Remission/Response	FEMALE	58	Stage IIA	Primary Tumor
+TCGA-AA-A017-01	TCGA-AA-A017-01	Complete Remission/Response	FEMALE	57	Stage IIA	Primary Tumor
+TCGA-A6-4107-11	TCGA-A6-4107-11	Complete Remission/Response	FEMALE	57	Stage IIIB	Solid Tissue Normal
+TCGA-A6-4107-01	TCGA-A6-4107-01	Complete Remission/Response	FEMALE	57	Stage IIIB	Primary Tumor
+TCGA-AG-3892-01	TCGA-AG-3892-01	Complete Remission/Response	FEMALE	57	Stage I	Primary Tumor
+TCGA-A6-6142-01	TCGA-A6-6142-01	Complete Remission/Response	FEMALE	56	Stage IVA	Primary Tumor
+TCGA-QG-A5YW-01	TCGA-QG-A5YW-01	Complete Remission/Response	FEMALE	55	Stage IIIC	Primary Tumor
+TCGA-AY-A69D-01	TCGA-AY-A69D-01	Complete Remission/Response	FEMALE	55	Stage IIA	Primary Tumor
+TCGA-AG-3612-01	TCGA-AG-3612-01	Complete Remission/Response	FEMALE	55	Stage IIIB	Primary Tumor
+TCGA-AA-3968-01	TCGA-AA-3968-01	Complete Remission/Response	FEMALE	55	Stage I	Primary Tumor
+TCGA-AA-3509-11	TCGA-AA-3509-11	Complete Remission/Response	FEMALE	54	Stage II	Solid Tissue Normal
+TCGA-AA-3509-01	TCGA-AA-3509-01	Complete Remission/Response	FEMALE	54	Stage II	Primary Tumor
+TCGA-CA-5256-01	TCGA-CA-5256-01	Complete Remission/Response	FEMALE	54	Stage IIA	Primary Tumor
+TCGA-AA-3538-01	TCGA-AA-3538-01	Complete Remission/Response	FEMALE	54	Stage I	Primary Tumor
+TCGA-AY-A71X-01	TCGA-AY-A71X-01	Complete Remission/Response	FEMALE	54	Stage I	Primary Tumor
+TCGA-F4-6808-01	TCGA-F4-6808-01	Complete Remission/Response	FEMALE	54	Stage I	Primary Tumor
+TCGA-AA-3673-01	TCGA-AA-3673-01	Complete Remission/Response	FEMALE	53	Stage II	Primary Tumor
+TCGA-AA-3860-01	TCGA-AA-3860-01	Complete Remission/Response	FEMALE	53	Stage IIIB	Primary Tumor
+TCGA-CA-5796-01	TCGA-CA-5796-01	Complete Remission/Response	FEMALE	52	Stage IIA	Primary Tumor
+TCGA-WS-AB45-01	TCGA-WS-AB45-01	Complete Remission/Response	FEMALE	52	Stage IIA	Primary Tumor
+TCGA-AA-3660-11	TCGA-AA-3660-11	Complete Remission/Response	FEMALE	51	Stage II	Solid Tissue Normal
+TCGA-AA-3660-01	TCGA-AA-3660-01	Complete Remission/Response	FEMALE	51	Stage II	Primary Tumor
+TCGA-F4-6807-01	TCGA-F4-6807-01	Complete Remission/Response	FEMALE	51	Stage IIIC	Primary Tumor
+TCGA-F4-6460-01	TCGA-F4-6460-01	Complete Remission/Response	FEMALE	51	Stage IIIB	Primary Tumor
+TCGA-AZ-4313-01	TCGA-AZ-4313-01	Complete Remission/Response	FEMALE	51	Stage I	Primary Tumor
+TCGA-AZ-5407-01	TCGA-AZ-5407-01	Complete Remission/Response	FEMALE	51	Stage I	Primary Tumor
+TCGA-AG-A008-01	TCGA-AG-A008-01	Complete Remission/Response	FEMALE	50	Stage I	Primary Tumor
+TCGA-G4-6293-01	TCGA-G4-6293-01	Complete Remission/Response	FEMALE	49	Stage III	Primary Tumor
+TCGA-AG-A00C-01	TCGA-AG-A00C-01	Complete Remission/Response	FEMALE	49	Stage IIIB	Primary Tumor
+TCGA-DC-4745-01	TCGA-DC-4745-01	Complete Remission/Response	FEMALE	49	Stage IIIB	Primary Tumor
+TCGA-AF-A56L-01	TCGA-AF-A56L-01	Complete Remission/Response	FEMALE	48	Stage IIIC	Primary Tumor
+TCGA-AF-2691-11	TCGA-AF-2691-11	Complete Remission/Response	FEMALE	48	Stage I	Solid Tissue Normal
+TCGA-AF-2691-01	TCGA-AF-2691-01	Complete Remission/Response	FEMALE	48	Stage I	Primary Tumor
+TCGA-AF-A56N-01	TCGA-AF-A56N-01	Complete Remission/Response	FEMALE	47	Stage IIA	Primary Tumor
+TCGA-AZ-4308-01	TCGA-AZ-4308-01	Complete Remission/Response	FEMALE	47	Stage IIIB	Primary Tumor
+TCGA-AA-A010-01	TCGA-AA-A010-01	Complete Remission/Response	FEMALE	46	Stage IIB	Primary Tumor
+TCGA-CK-4948-01	TCGA-CK-4948-01	Complete Remission/Response	FEMALE	45	Stage III	Primary Tumor
+TCGA-SS-A7HO-01	TCGA-SS-A7HO-01	Complete Remission/Response	FEMALE	44	Stage IIB	Primary Tumor
+TCGA-A6-2678-11	TCGA-A6-2678-11	Complete Remission/Response	FEMALE	43	Stage IIIB	Solid Tissue Normal
+TCGA-A6-2678-01	TCGA-A6-2678-01	Complete Remission/Response	FEMALE	43	Stage IIIB	Primary Tumor
+TCGA-4T-AA8H-01	TCGA-4T-AA8H-01	Complete Remission/Response	FEMALE	42	Stage IIA	Primary Tumor
+TCGA-CA-5254-01	TCGA-CA-5254-01	Complete Remission/Response	FEMALE	42	Stage IIA	Primary Tumor
+TCGA-AA-3819-01	TCGA-AA-3819-01	Complete Remission/Response	FEMALE	41	Stage IIA	Primary Tumor
+TCGA-A6-5667-11	TCGA-A6-5667-11	Complete Remission/Response	FEMALE	40	Stage IIIB	Solid Tissue Normal
+TCGA-A6-5667-01	TCGA-A6-5667-01	Complete Remission/Response	FEMALE	40	Stage IIIB	Primary Tumor
+TCGA-G4-6309-01	TCGA-G4-6309-01	Complete Remission/Response	FEMALE	40	Stage IIIB	Primary Tumor
+TCGA-AA-3667-01	TCGA-AA-3667-01	Complete Remission/Response	FEMALE	36	Stage I	Primary Tumor
+TCGA-CM-4750-01	TCGA-CM-4750-01	Complete Remission/Response	FEMALE	34	Stage IIIA	Primary Tumor
+TCGA-G4-6626-01	TCGA-G4-6626-01		MALE	90	Stage IIA	Primary Tumor
+TCGA-G4-6298-11	TCGA-G4-6298-11		MALE	90	Stage IIIB	Solid Tissue Normal
+TCGA-G4-6298-01	TCGA-G4-6298-01		MALE	90	Stage IIIB	Primary Tumor
+TCGA-AA-3852-01	TCGA-AA-3852-01		MALE	88	Stage IIA	Primary Tumor
+TCGA-DM-A1D6-01	TCGA-DM-A1D6-01		MALE	88	Stage IIA	Primary Tumor
+TCGA-AA-3521-11	TCGA-AA-3521-11		MALE	87	Stage II	Solid Tissue Normal
+TCGA-AA-3521-01	TCGA-AA-3521-01		MALE	87	Stage II	Primary Tumor
+TCGA-AG-4007-01	TCGA-AG-4007-01		MALE	87	Stage IV	Primary Tumor
+TCGA-AG-A014-01	TCGA-AG-A014-01		MALE	86	Stage I	Primary Tumor
+TCGA-A6-2671-11	TCGA-A6-2671-11		MALE	85	Stage IV	Solid Tissue Normal
+TCGA-A6-2671-01	TCGA-A6-2671-01		MALE	85	Stage IV	Primary Tumor
+TCGA-AA-3989-01	TCGA-AA-3989-01		MALE	84	Stage IV	Primary Tumor
+TCGA-AZ-4615-01	TCGA-AZ-4615-01		MALE	84	Stage IIIB	Primary Tumor
+TCGA-AA-3543-01	TCGA-AA-3543-01		MALE	84	Stage I	Primary Tumor
+TCGA-AA-3939-01	TCGA-AA-3939-01		MALE	83	Stage IIA	Primary Tumor
+TCGA-AA-A02O-11	TCGA-AA-A02O-11		MALE	82	Stage II	Solid Tissue Normal
+TCGA-AA-A02O-01	TCGA-AA-A02O-01		MALE	82	Stage II	Primary Tumor
+TCGA-AA-3562-01	TCGA-AA-3562-01		MALE	82	Stage IIIC	Primary Tumor
+TCGA-DM-A1HA-01	TCGA-DM-A1HA-01		MALE	82	Stage IIIC	Primary Tumor
+TCGA-DM-A1D7-01	TCGA-DM-A1D7-01		MALE	82	Stage IIA	Primary Tumor
+TCGA-CM-6676-01	TCGA-CM-6676-01		MALE	82	Stage I	Primary Tumor
+TCGA-CK-5914-01	TCGA-CK-5914-01		MALE	81	Stage IIIB	Primary Tumor
+TCGA-G4-6311-11	TCGA-G4-6311-11		MALE	80	Stage III	Solid Tissue Normal
+TCGA-G4-6311-01	TCGA-G4-6311-01		MALE	80	Stage III	Primary Tumor
+TCGA-CM-5862-01	TCGA-CM-5862-01		MALE	80	Stage IVA	Primary Tumor
+TCGA-A6-5664-01	TCGA-A6-5664-01		MALE	80	Stage IIIC	Primary Tumor
+TCGA-AA-A00A-01	TCGA-AA-A00A-01		MALE	80	Stage IIA	Primary Tumor
+TCGA-AG-A011-01	TCGA-AG-A011-01		MALE	80	Stage IIA	Primary Tumor
+TCGA-D5-6928-01	TCGA-D5-6928-01		MALE	80	Stage IIA	Primary Tumor
+TCGA-DM-A1D4-01	TCGA-DM-A1D4-01		MALE	80	Stage IIA	Primary Tumor
+TCGA-NH-A8F8-01	TCGA-NH-A8F8-01		MALE	79	Stage IV	Primary Tumor
+TCGA-A6-4105-01	TCGA-A6-4105-01		MALE	79	Stage IIA	Primary Tumor
+TCGA-AA-A00K-01	TCGA-AA-A00K-01		MALE	79	Stage IIA	Primary Tumor
+TCGA-DM-A28A-01	TCGA-DM-A28A-01		MALE	78	Stage IIIC	Primary Tumor
+TCGA-AA-3556-01	TCGA-AA-3556-01		MALE	78	Stage I	Primary Tumor
+TCGA-AA-3697-11	TCGA-AA-3697-11		MALE	77	Stage II	Solid Tissue Normal
+TCGA-AA-3697-01	TCGA-AA-3697-01		MALE	77	Stage II	Primary Tumor
+TCGA-AA-3715-01	TCGA-AA-3715-01		MALE	77	Stage II	Primary Tumor
+TCGA-D5-6931-01	TCGA-D5-6931-01		MALE	77	Stage IIIC	Primary Tumor
+TCGA-AG-3594-01	TCGA-AG-3594-01		MALE	77	Stage IIA	Primary Tumor
+TCGA-AA-3506-11	TCGA-AA-3506-11		MALE	77	Stage I	Solid Tissue Normal
+TCGA-AA-3506-01	TCGA-AA-3506-01		MALE	77	Stage I	Primary Tumor
+TCGA-AG-A02X-01	TCGA-AG-A02X-01		MALE	77	Stage I	Primary Tumor
+TCGA-D5-6922-01	TCGA-D5-6922-01		MALE	76	Stage IIIA	Primary Tumor
+TCGA-AD-6889-01	TCGA-AD-6889-01		MALE	76	Stage IIA	Primary Tumor
+TCGA-DY-A1DG-01	TCGA-DY-A1DG-01		MALE	75	Stage IVA	Primary Tumor
+TCGA-AA-3489-11	TCGA-AA-3489-11		MALE	75	Stage II	Solid Tissue Normal
+TCGA-AA-3489-01	TCGA-AA-3489-01		MALE	75	Stage II	Primary Tumor
+TCGA-AA-A00N-01	TCGA-AA-A00N-01		MALE	75	Stage IIB	Primary Tumor
+TCGA-AG-3582-01	TCGA-AG-3582-01		MALE	75	Stage IV	Primary Tumor
+TCGA-G4-6294-01	TCGA-G4-6294-01		MALE	75	Stage IV	Primary Tumor
+TCGA-D5-6531-01	TCGA-D5-6531-01		MALE	75	Stage IIA	Primary Tumor
+TCGA-DM-A28G-01	TCGA-DM-A28G-01		MALE	75	Stage IIA	Primary Tumor
+TCGA-DM-A28K-01	TCGA-DM-A28K-01		MALE	75	Stage IIA	Primary Tumor
+TCGA-AA-3982-01	TCGA-AA-3982-01		MALE	75	Stage IIIB	Primary Tumor
+TCGA-DM-A1HB-01	TCGA-DM-A1HB-01		MALE	75	Stage IIIB	Primary Tumor
+TCGA-AF-2693-01	TCGA-AF-2693-01		MALE	75	Stage I	Primary Tumor
+TCGA-G5-6233-01	TCGA-G5-6233-01		MALE	74	[Discrepancy]	Primary Tumor
+TCGA-CI-6622-01	TCGA-CI-6622-01		MALE	74	Stage IIB	Primary Tumor
+TCGA-AA-3867-01	TCGA-AA-3867-01		MALE	74	Stage IV	Primary Tumor
+TCGA-AA-3851-01	TCGA-AA-3851-01		MALE	74	Stage IIA	Primary Tumor
+TCGA-CM-6165-01	TCGA-CM-6165-01		MALE	74	Stage IIA	Primary Tumor
+TCGA-DM-A28C-01	TCGA-DM-A28C-01		MALE	74	Stage IIA	Primary Tumor
+TCGA-AA-3850-01	TCGA-AA-3850-01		MALE	74	Stage I	Primary Tumor
+TCGA-CM-6163-01	TCGA-CM-6163-01		MALE	74	Stage I	Primary Tumor
+TCGA-G4-6320-11	TCGA-G4-6320-11		MALE	73	Stage III	Solid Tissue Normal
+TCGA-G4-6320-01	TCGA-G4-6320-01		MALE	73	Stage III	Primary Tumor
+TCGA-A6-3808-11	TCGA-A6-3808-11		MALE	73	Stage IIA	Solid Tissue Normal
+TCGA-A6-3808-01	TCGA-A6-3808-01		MALE	73	Stage IIA	Primary Tumor
+TCGA-D5-6536-01	TCGA-D5-6536-01		MALE	73	Stage IIA	Primary Tumor
+TCGA-DM-A28F-01	TCGA-DM-A28F-01		MALE	73	Stage IIIB	Primary Tumor
+TCGA-EF-5831-01	TCGA-EF-5831-01		MALE	72	Stage IIA	Primary Tumor
+TCGA-AA-A01F-01	TCGA-AA-A01F-01		MALE	72	Stage IIIB	Primary Tumor
+TCGA-CM-5348-01	TCGA-CM-5348-01		MALE	72	Stage IIIB	Primary Tumor
+TCGA-G5-6235-01	TCGA-G5-6235-01		MALE	72	Stage IIIB	Primary Tumor
+TCGA-AA-3855-01	TCGA-AA-3855-01		MALE	72	Stage I	Primary Tumor
+TCGA-G4-6306-01	TCGA-G4-6306-01		MALE	71	[Discrepancy]	Primary Tumor
+TCGA-EI-6884-01	TCGA-EI-6884-01		MALE	71	Stage IIIA	Primary Tumor
+TCGA-QG-A5Z1-01	TCGA-QG-A5Z1-01		MALE	71	Stage IIIB	Primary Tumor
+TCGA-F5-6813-01	TCGA-F5-6813-01		MALE	70	Stage IIIC	Primary Tumor
+TCGA-A6-2682-11	TCGA-A6-2682-11		MALE	70	Stage IV	Solid Tissue Normal
+TCGA-A6-2682-01	TCGA-A6-2682-01		MALE	70	Stage IV	Primary Tumor
+TCGA-AG-3599-01	TCGA-AG-3599-01		MALE	70	Stage I	Primary Tumor
+TCGA-DC-6158-01	TCGA-DC-6158-01		MALE	70	Stage I	Primary Tumor
+TCGA-G4-6299-01	TCGA-G4-6299-01		MALE	69	Stage IIIC	Primary Tumor
+TCGA-AG-3598-01	TCGA-AG-3598-01		MALE	69	Stage IIA	Primary Tumor
+TCGA-D5-6529-01	TCGA-D5-6529-01		MALE	69	Stage IIA	Primary Tumor
+TCGA-D5-6932-01	TCGA-D5-6932-01		MALE	69	Stage IIA	Primary Tumor
+TCGA-AG-3883-01	TCGA-AG-3883-01		MALE	69	Stage I	Primary Tumor
+TCGA-DC-5337-01	TCGA-DC-5337-01		MALE	69	Stage I	Primary Tumor
+TCGA-AA-3666-01	TCGA-AA-3666-01		MALE	68	Stage III	Primary Tumor
+TCGA-AA-3952-01	TCGA-AA-3952-01		MALE	68	Stage IIIC	Primary Tumor
+TCGA-DM-A288-01	TCGA-DM-A288-01		MALE	68	Stage IIIC	Primary Tumor
+TCGA-AG-3592-01	TCGA-AG-3592-01		MALE	68	Stage IIA	Primary Tumor
+TCGA-AG-3887-01	TCGA-AG-3887-01		MALE	68	Stage IIA	Primary Tumor
+TCGA-D5-6924-01	TCGA-D5-6924-01		MALE	68	Stage IIA	Primary Tumor
+TCGA-DM-A1DB-01	TCGA-DM-A1DB-01		MALE	68	Stage IIA	Primary Tumor
+TCGA-AG-3601-01	TCGA-AG-3601-01		MALE	68	Stage IIIB	Primary Tumor
+TCGA-DC-6160-01	TCGA-DC-6160-01		MALE	68	Stage I	Primary Tumor
+TCGA-G5-6641-01	TCGA-G5-6641-01		MALE	67	Stage IIIA	Primary Tumor
+TCGA-AG-A02N-11	TCGA-AG-A02N-11		MALE	67	Stage II	Solid Tissue Normal
+TCGA-AG-A02N-01	TCGA-AG-A02N-01		MALE	67	Stage II	Primary Tumor
+TCGA-CM-6169-01	TCGA-CM-6169-01		MALE	67	Stage IIA	Primary Tumor
+TCGA-D5-6930-01	TCGA-D5-6930-01		MALE	67	Stage IIA	Primary Tumor
+TCGA-AG-3580-01	TCGA-AG-3580-01		MALE	67	Stage I	Primary Tumor
+TCGA-AG-A026-01	TCGA-AG-A026-01		MALE	66	Stage II	Primary Tumor
+TCGA-AG-3583-01	TCGA-AG-3583-01		MALE	66	Stage IV	Primary Tumor
+TCGA-D5-6540-01	TCGA-D5-6540-01		MALE	66	Stage I	Primary Tumor
+TCGA-AA-3712-11	TCGA-AA-3712-11		MALE	65	Stage III	Solid Tissue Normal
+TCGA-AA-3712-01	TCGA-AA-3712-01		MALE	65	Stage III	Primary Tumor
+TCGA-AA-3956-01	TCGA-AA-3956-01		MALE	65	Stage IIA	Primary Tumor
+TCGA-DM-A0XD-01	TCGA-DM-A0XD-01		MALE	65	Stage IIA	Primary Tumor
+TCGA-G4-6322-11	TCGA-G4-6322-11		MALE	65	Stage IIIB	Solid Tissue Normal
+TCGA-D5-6926-01	TCGA-D5-6926-01		MALE	65	Stage IIIB	Primary Tumor
+TCGA-G4-6322-01	TCGA-G4-6322-01		MALE	65	Stage IIIB	Primary Tumor
+TCGA-AG-3587-01	TCGA-AG-3587-01		MALE	65	Stage I	Primary Tumor
+TCGA-D5-6537-01	TCGA-D5-6537-01		MALE	64	Stage IIIB	Primary Tumor
+TCGA-AG-3878-01	TCGA-AG-3878-01		MALE	64	Stage I	Primary Tumor
+TCGA-EI-6883-01	TCGA-EI-6883-01		MALE	63	Stage IIC	Primary Tumor
+TCGA-AA-3532-11	TCGA-AA-3532-11		MALE	63	Stage IIA	Solid Tissue Normal
+TCGA-AA-3532-01	TCGA-AA-3532-01		MALE	63	Stage IIA	Primary Tumor
+TCGA-DM-A28M-01	TCGA-DM-A28M-01		MALE	63	Stage IIA	Primary Tumor
+TCGA-CI-6621-01	TCGA-CI-6621-01		MALE	63	Stage IIIB	Primary Tumor
+TCGA-AG-3581-01	TCGA-AG-3581-01		MALE	63	Stage I	Primary Tumor
+TCGA-CK-5915-01	TCGA-CK-5915-01		MALE	63	Stage I	Primary Tumor
+TCGA-DC-6156-01	TCGA-DC-6156-01		MALE	62	Stage IVA	Primary Tumor
+TCGA-AG-3890-01	TCGA-AG-3890-01		MALE	62	Stage I	Primary Tumor
+TCGA-AZ-4682-01	TCGA-AZ-4682-01		MALE	61	Stage IVA	Primary Tumor
+TCGA-AG-3898-01	TCGA-AG-3898-01		MALE	61	Stage IIA	Primary Tumor
+TCGA-AG-3902-01	TCGA-AG-3902-01		MALE	61	Stage IIA	Primary Tumor
+TCGA-AZ-4315-01	TCGA-AZ-4315-01		MALE	61	Stage IIA	Primary Tumor
+TCGA-D5-6532-01	TCGA-D5-6532-01		MALE	61	Stage IIA	Primary Tumor
+TCGA-A6-6138-01	TCGA-A6-6138-01		MALE	61	Stage I	Primary Tumor
+TCGA-D5-5539-01	TCGA-D5-5539-01		MALE	60	Stage IIIA	Primary Tumor
+TCGA-EI-6881-01	TCGA-EI-6881-01		MALE	60	Stage IIIA	Primary Tumor
+TCGA-F4-6704-11	TCGA-F4-6704-11		MALE	60	Stage IIIC	Solid Tissue Normal
+TCGA-F4-6704-01	TCGA-F4-6704-01		MALE	60	Stage IIIC	Primary Tumor
+TCGA-AF-3913-11	TCGA-AF-3913-11		MALE	60	Stage IV	Solid Tissue Normal
+TCGA-AF-3913-01	TCGA-AF-3913-01		MALE	60	Stage IV	Primary Tumor
+TCGA-EI-6507-01	TCGA-EI-6507-01		MALE	60	Stage IIA	Primary Tumor
+TCGA-CM-5864-01	TCGA-CM-5864-01		MALE	60	Stage I	Primary Tumor
+TCGA-A6-6652-01	TCGA-A6-6652-01		MALE	59	Stage IVA	Primary Tumor
+TCGA-AA-3856-01	TCGA-AA-3856-01		MALE	59	Stage IIA	Primary Tumor
+TCGA-EI-6882-01	TCGA-EI-6882-01		MALE	59	Stage IIA	Primary Tumor
+TCGA-EI-6513-01	TCGA-EI-6513-01		MALE	59	Stage IIIB	Primary Tumor
+TCGA-AA-A01V-11	TCGA-AA-A01V-11		MALE	59	Stage I	Solid Tissue Normal
+TCGA-AA-A01V-01	TCGA-AA-A01V-01		MALE	59	Stage I	Primary Tumor
+TCGA-AA-3488-11	TCGA-AA-3488-11		MALE	58	Stage IV	Solid Tissue Normal
+TCGA-AA-3488-01	TCGA-AA-3488-01		MALE	58	Stage IV	Primary Tumor
+TCGA-EI-7002-01	TCGA-EI-7002-01		MALE	58	Stage IV	Primary Tumor
+TCGA-CM-6679-01	TCGA-CM-6679-01		MALE	58	Stage IIA	Primary Tumor
+TCGA-AG-A01L-01	TCGA-AG-A01L-01		MALE	58	Stage IIIB	Primary Tumor
+TCGA-DC-6682-01	TCGA-DC-6682-01		MALE	57	Stage IIA	Primary Tumor
+TCGA-D5-6923-01	TCGA-D5-6923-01		MALE	57	Stage I	Primary Tumor
+TCGA-A6-6648-01	TCGA-A6-6648-01		MALE	56	Stage IVA	Primary Tumor
+TCGA-A6-A567-01	TCGA-A6-A567-01		MALE	56	Stage IV	Primary Tumor
+TCGA-G5-6572-02	TCGA-G5-6572-02		MALE	56		Recurrent Tumor
+TCGA-G5-6572-01	TCGA-G5-6572-01		MALE	56		Primary Tumor
+TCGA-AA-3494-11	TCGA-AA-3494-11		MALE	55	Stage IV	Solid Tissue Normal
+TCGA-AA-3494-01	TCGA-AA-3494-01		MALE	55	Stage IV	Primary Tumor
+TCGA-EF-5830-01	TCGA-EF-5830-01		MALE	54	Stage IIB	Primary Tumor
+TCGA-AF-3400-11	TCGA-AF-3400-11		MALE	54	Stage IIA	Solid Tissue Normal
+TCGA-AF-3400-01	TCGA-AF-3400-01		MALE	54	Stage IIA	Primary Tumor
+TCGA-EI-6509-01	TCGA-EI-6509-01		MALE	53	Stage IIIC	Primary Tumor
+TCGA-D5-6530-01	TCGA-D5-6530-01		MALE	53	Stage I	Primary Tumor
+TCGA-EI-6511-01	TCGA-EI-6511-01		MALE	52	Stage IIIB	Primary Tumor
+TCGA-AG-3575-01	TCGA-AG-3575-01		MALE	51	Stage II	Primary Tumor
+TCGA-G4-6323-01	TCGA-G4-6323-01		MALE	50	Stage IA	Primary Tumor
+TCGA-DM-A28H-01	TCGA-DM-A28H-01		MALE	50	Stage IIIC	Primary Tumor
+TCGA-AZ-4684-01	TCGA-AZ-4684-01		MALE	49	Stage IVA	Primary Tumor
+TCGA-D5-6541-01	TCGA-D5-6541-01		MALE	49	Stage IIA	Primary Tumor
+TCGA-DC-6157-01	TCGA-DC-6157-01		MALE	48	Stage I	Primary Tumor
+TCGA-AY-6196-01	TCGA-AY-6196-01		MALE	47	Stage IIIC	Primary Tumor
+TCGA-A6-5662-11	TCGA-A6-5662-11		MALE	46	Stage IVA	Solid Tissue Normal
+TCGA-A6-5662-01	TCGA-A6-5662-01		MALE	46	Stage IVA	Primary Tumor
+TCGA-AA-3872-01	TCGA-AA-3872-01		MALE	45	Stage IV	Primary Tumor
+TCGA-A6-2670-01	TCGA-A6-2670-01		MALE	45	Stage IIA	Primary Tumor
+TCGA-CM-5860-01	TCGA-CM-5860-01		MALE	44	Stage IIA	Primary Tumor
+TCGA-CI-6623-01	TCGA-CI-6623-01		MALE	44	Stage I	Primary Tumor
+TCGA-AZ-5403-01	TCGA-AZ-5403-01		MALE	43	Stage II	Primary Tumor
+TCGA-DC-6683-01	TCGA-DC-6683-01		MALE	43	Stage IIIB	Primary Tumor
+TCGA-CI-6619-01	TCGA-CI-6619-01		MALE	41	Stage IV	Primary Tumor
+TCGA-CM-6674-01	TCGA-CM-6674-01		MALE	39	Stage IIA	Primary Tumor
+TCGA-AZ-4323-01	TCGA-AZ-4323-01		MALE	37	Stage IV	Primary Tumor
+TCGA-CM-6675-01	TCGA-CM-6675-01		MALE	35	Stage IVB	Primary Tumor
+TCGA-D5-6927-01	TCGA-D5-6927-01		MALE	34	Stage IIA	Primary Tumor
+TCGA-EI-6917-01	TCGA-EI-6917-01		MALE	33	Stage IIIA	Primary Tumor
+TCGA-A6-6141-01	TCGA-A6-6141-01		MALE	31	Stage IIA	Primary Tumor
+TCGA-AA-A03F-11	TCGA-AA-A03F-11		FEMALE	90	Stage III	Solid Tissue Normal
+TCGA-AG-3725-11	TCGA-AG-3725-11		FEMALE	90	Stage III	Solid Tissue Normal
+TCGA-AA-3672-01	TCGA-AA-3672-01		FEMALE	90	Stage III	Primary Tumor
+TCGA-AA-A03F-01	TCGA-AA-A03F-01		FEMALE	90	Stage III	Primary Tumor
+TCGA-AG-3725-01	TCGA-AG-3725-01		FEMALE	90	Stage III	Primary Tumor
+TCGA-AA-3492-11	TCGA-AA-3492-11		FEMALE	90	Stage II	Solid Tissue Normal
+TCGA-AA-3492-01	TCGA-AA-3492-01		FEMALE	90	Stage II	Primary Tumor
+TCGA-AA-3527-11	TCGA-AA-3527-11		FEMALE	90	Stage IIA	Solid Tissue Normal
+TCGA-G4-6302-11	TCGA-G4-6302-11		FEMALE	90	Stage IIA	Solid Tissue Normal
+TCGA-AA-3527-01	TCGA-AA-3527-01		FEMALE	90	Stage IIA	Primary Tumor
+TCGA-G4-6302-01	TCGA-G4-6302-01		FEMALE	90	Stage IIA	Primary Tumor
+TCGA-AG-3574-01	TCGA-AG-3574-01		FEMALE	89	Stage II	Primary Tumor
+TCGA-AA-3966-01	TCGA-AA-3966-01		FEMALE	89	Stage IIA	Primary Tumor
+TCGA-AA-A022-11	TCGA-AA-A022-11		FEMALE	88	Stage II	Solid Tissue Normal
+TCGA-AA-A022-01	TCGA-AA-A022-01		FEMALE	88	Stage II	Primary Tumor
+TCGA-CK-6751-01	TCGA-CK-6751-01		FEMALE	88	Stage I	Primary Tumor
+TCGA-AA-3520-11	TCGA-AA-3520-11		FEMALE	86	Stage II	Solid Tissue Normal
+TCGA-AA-3520-01	TCGA-AA-3520-01		FEMALE	86	Stage II	Primary Tumor
+TCGA-AA-3845-01	TCGA-AA-3845-01		FEMALE	86	Stage IIA	Primary Tumor
+TCGA-AG-3605-01	TCGA-AG-3605-01		FEMALE	85	Stage IV	Primary Tumor
+TCGA-AA-3814-01	TCGA-AA-3814-01		FEMALE	85	Stage IIA	Primary Tumor
+TCGA-AG-4015-01	TCGA-AG-4015-01		FEMALE	85	Stage IIA	Primary Tumor
+TCGA-AG-3742-11	TCGA-AG-3742-11		FEMALE	85	Stage I	Solid Tissue Normal
+TCGA-AG-3742-01	TCGA-AG-3742-01		FEMALE	85	Stage I	Primary Tumor
+TCGA-AG-3896-01	TCGA-AG-3896-01		FEMALE	85	Stage I	Primary Tumor
+TCGA-AA-3811-01	TCGA-AA-3811-01		FEMALE	84	Stage III	Primary Tumor
+TCGA-AA-3941-01	TCGA-AA-3941-01		FEMALE	84	Stage IVA	Primary Tumor
+TCGA-CK-6746-01	TCGA-CK-6746-01		FEMALE	84	Stage IIB	Primary Tumor
+TCGA-AG-4021-01	TCGA-AG-4021-01		FEMALE	84	Stage IV	Primary Tumor
+TCGA-A6-5665-11	TCGA-A6-5665-11		FEMALE	84	Stage IIA	Solid Tissue Normal
+TCGA-A6-5665-01	TCGA-A6-5665-01		FEMALE	84	Stage IIA	Primary Tumor
+TCGA-AA-A02R-01	TCGA-AA-A02R-01		FEMALE	84	Stage IIA	Primary Tumor
+TCGA-CM-6168-01	TCGA-CM-6168-01		FEMALE	84	Stage IIA	Primary Tumor
+TCGA-AA-3496-11	TCGA-AA-3496-11		FEMALE	83	Stage II	Solid Tissue Normal
+TCGA-AA-3496-01	TCGA-AA-3496-01		FEMALE	83	Stage II	Primary Tumor
+TCGA-AG-3881-01	TCGA-AG-3881-01		FEMALE	83	Stage IIA	Primary Tumor
+TCGA-AA-3848-01	TCGA-AA-3848-01		FEMALE	82	Stage IIIC	Primary Tumor
+TCGA-AA-A02E-01	TCGA-AA-A02E-01		FEMALE	82	Stage IV	Primary Tumor
+TCGA-AZ-4616-01	TCGA-AZ-4616-01		FEMALE	82	Stage IV	Primary Tumor
+TCGA-AA-3518-11	TCGA-AA-3518-11		FEMALE	81	Stage IIA	Solid Tissue Normal
+TCGA-AA-3518-01	TCGA-AA-3518-01		FEMALE	81	Stage IIA	Primary Tumor
+TCGA-AA-3514-11	TCGA-AA-3514-11		FEMALE	81	Stage I	Solid Tissue Normal
+TCGA-AA-3514-01	TCGA-AA-3514-01		FEMALE	81	Stage I	Primary Tumor
+TCGA-AA-3821-01	TCGA-AA-3821-01		FEMALE	81	Stage I	Primary Tumor
+TCGA-AA-A01P-11	TCGA-AA-A01P-11		FEMALE	80	Stage III	Solid Tissue Normal
+TCGA-AA-A01X-11	TCGA-AA-A01X-11		FEMALE	80	Stage III	Solid Tissue Normal
+TCGA-AA-A01P-01	TCGA-AA-A01P-01		FEMALE	80	Stage III	Primary Tumor
+TCGA-AA-A01X-01	TCGA-AA-A01X-01		FEMALE	80	Stage III	Primary Tumor
+TCGA-AU-3779-01	TCGA-AU-3779-01		FEMALE	80	Stage IIA	Primary Tumor
+TCGA-D5-6535-01	TCGA-D5-6535-01		FEMALE	80	Stage IIIB	Primary Tumor
+TCGA-AG-3608-01	TCGA-AG-3608-01		FEMALE	79	Stage IIA	Primary Tumor
+TCGA-CK-4951-01	TCGA-CK-4951-01		FEMALE	79	Stage IIA	Primary Tumor
+TCGA-DM-A1D0-01	TCGA-DM-A1D0-01		FEMALE	79	Stage IIA	Primary Tumor
+TCGA-D5-6538-01	TCGA-D5-6538-01		FEMALE	79	Stage IIIB	Primary Tumor
+TCGA-D5-7000-01	TCGA-D5-7000-01		FEMALE	79	Stage I	Primary Tumor
+TCGA-AG-3727-01	TCGA-AG-3727-01		FEMALE	78	Stage III	Primary Tumor
+TCGA-AA-3529-11	TCGA-AA-3529-11		FEMALE	78	Stage IIIC	Solid Tissue Normal
+TCGA-AA-3529-01	TCGA-AA-3529-01		FEMALE	78	Stage IIIC	Primary Tumor
+TCGA-AA-3818-01	TCGA-AA-3818-01		FEMALE	78	Stage IIA	Primary Tumor
+TCGA-EI-6506-01	TCGA-EI-6506-01		FEMALE	78	Stage IIA	Primary Tumor
+TCGA-F4-6570-01	TCGA-F4-6570-01		FEMALE	78	Stage IIA	Primary Tumor
+TCGA-CM-6680-01	TCGA-CM-6680-01		FEMALE	78	Stage IIIB	Primary Tumor
+TCGA-AA-3875-01	TCGA-AA-3875-01		FEMALE	78	Stage I	Primary Tumor
+TCGA-EI-6510-01	TCGA-EI-6510-01		FEMALE	77	[Discrepancy]	Primary Tumor
+TCGA-DY-A1H8-01	TCGA-DY-A1H8-01		FEMALE	77	Stage IIIA	Primary Tumor
+TCGA-F5-6464-01	TCGA-F5-6464-01		FEMALE	77	Stage IIIC	Primary Tumor
+TCGA-AA-3693-01	TCGA-AA-3693-01		FEMALE	77	Stage IV	Primary Tumor
+TCGA-G4-6625-11	TCGA-G4-6625-11		FEMALE	77	Stage IIA	Solid Tissue Normal
+TCGA-D5-6920-01	TCGA-D5-6920-01		FEMALE	77	Stage IIA	Primary Tumor
+TCGA-G4-6625-01	TCGA-G4-6625-01		FEMALE	77	Stage IIA	Primary Tumor
+TCGA-DY-A1DD-01	TCGA-DY-A1DD-01		FEMALE	77	Stage IIIB	Primary Tumor
+TCGA-CM-6171-01	TCGA-CM-6171-01		FEMALE	77	Stage I	Primary Tumor
+TCGA-AF-2690-01	TCGA-AF-2690-01		FEMALE	76	Stage IIIC	Primary Tumor
+TCGA-G4-6314-11	TCGA-G4-6314-11		FEMALE	76	Stage IV	Solid Tissue Normal
+TCGA-G4-6314-01	TCGA-G4-6314-01		FEMALE	76	Stage IV	Primary Tumor
+TCGA-AG-3578-01	TCGA-AG-3578-01		FEMALE	76	Stage IIA	Primary Tumor
+TCGA-AA-3696-01	TCGA-AA-3696-01		FEMALE	75	Stage IV	Primary Tumor
+TCGA-CM-6677-01	TCGA-CM-6677-01		FEMALE	75	Stage IIA	Primary Tumor
+TCGA-A6-2684-11	TCGA-A6-2684-11		FEMALE	75	Stage I	Solid Tissue Normal
+TCGA-A6-2684-01	TCGA-A6-2684-01		FEMALE	75	Stage I	Primary Tumor
+TCGA-AA-3516-11	TCGA-AA-3516-11		FEMALE	74	Stage III	Solid Tissue Normal
+TCGA-AA-3516-01	TCGA-AA-3516-01		FEMALE	74	Stage III	Primary Tumor
+TCGA-AA-3664-01	TCGA-AA-3664-01		FEMALE	74	Stage II	Primary Tumor
+TCGA-AA-A02H-01	TCGA-AA-A02H-01		FEMALE	74	Stage IV	Primary Tumor
+TCGA-AA-3846-01	TCGA-AA-3846-01		FEMALE	74	Stage IIA	Primary Tumor
+TCGA-AD-A5EJ-01	TCGA-AD-A5EJ-01		FEMALE	74	Stage IIA	Primary Tumor
+TCGA-AG-4001-01	TCGA-AG-4001-01		FEMALE	74	Stage IIA	Primary Tumor
+TCGA-F5-6864-01	TCGA-F5-6864-01		FEMALE	74	Stage IIIB	Primary Tumor
+TCGA-DY-A1DF-01	TCGA-DY-A1DF-01		FEMALE	73	Stage IIIC	Primary Tumor
+TCGA-G4-6586-01	TCGA-G4-6586-01		FEMALE	73	Stage IIA	Primary Tumor
+TCGA-AF-5654-11	TCGA-AF-5654-11		FEMALE	73	Stage I	Solid Tissue Normal
+TCGA-AF-5654-01	TCGA-AF-5654-01		FEMALE	73	Stage I	Primary Tumor
+TCGA-CM-6170-01	TCGA-CM-6170-01		FEMALE	73	Stage I	Primary Tumor
+TCGA-AG-3586-01	TCGA-AG-3586-01		FEMALE	72	Stage III	Primary Tumor
+TCGA-DM-A28E-01	TCGA-DM-A28E-01		FEMALE	72	Stage IIA	Primary Tumor
+TCGA-DY-A1DC-01	TCGA-DY-A1DC-01		FEMALE	72	Stage IIA	Primary Tumor
+TCGA-AZ-4614-01	TCGA-AZ-4614-01		FEMALE	71	Stage IVA	Primary Tumor
+TCGA-DM-A1DA-01	TCGA-DM-A1DA-01		FEMALE	71	Stage IIIC	Primary Tumor
+TCGA-A6-3809-11	TCGA-A6-3809-11		FEMALE	71	Stage IIB	Solid Tissue Normal
+TCGA-A6-3809-01	TCGA-A6-3809-01		FEMALE	71	Stage IIB	Primary Tumor
+TCGA-DM-A285-01	TCGA-DM-A285-01		FEMALE	71	Stage IV	Primary Tumor
+TCGA-DM-A0X9-01	TCGA-DM-A0X9-01		FEMALE	71	Stage IIA	Primary Tumor
+TCGA-F5-6863-01	TCGA-F5-6863-01		FEMALE	71	Stage IIIB	Primary Tumor
+TCGA-DC-6681-01	TCGA-DC-6681-01		FEMALE	70	Stage IVA	Primary Tumor
+TCGA-G4-6295-11	TCGA-G4-6295-11		FEMALE	70	Stage II	Solid Tissue Normal
+TCGA-G4-6295-01	TCGA-G4-6295-01		FEMALE	70	Stage II	Primary Tumor
+TCGA-AA-A02J-01	TCGA-AA-A02J-01		FEMALE	70	Stage IV	Primary Tumor
+TCGA-DM-A280-01	TCGA-DM-A280-01		FEMALE	70	Stage IIA	Primary Tumor
+TCGA-CM-6172-01	TCGA-CM-6172-01		FEMALE	70	Stage IIIB	Primary Tumor
+TCGA-A6-6650-01	TCGA-A6-6650-01		FEMALE	69	Stage IIA	Primary Tumor
+TCGA-AU-6004-01	TCGA-AU-6004-01		FEMALE	69	Stage I	Primary Tumor
+TCGA-A6-2677-11	TCGA-A6-2677-11		FEMALE	68	Stage IIIC	Solid Tissue Normal
+TCGA-A6-2677-01	TCGA-A6-2677-01		FEMALE	68	Stage IIIC	Primary Tumor
+TCGA-DM-A0XF-01	TCGA-DM-A0XF-01		FEMALE	68	Stage IIIC	Primary Tumor
+TCGA-AM-5821-01	TCGA-AM-5821-01		FEMALE	68	Stage IIA	Primary Tumor
+TCGA-CM-5349-01	TCGA-CM-5349-01		FEMALE	68	Stage IIA	Primary Tumor
+TCGA-AG-A01W-11	TCGA-AG-A01W-11		FEMALE	67	Stage II	Solid Tissue Normal
+TCGA-AG-A01W-01	TCGA-AG-A01W-01		FEMALE	67	Stage II	Primary Tumor
+TCGA-DM-A1D9-01	TCGA-DM-A1D9-01		FEMALE	67	Stage IIA	Primary Tumor
+TCGA-AG-3901-01	TCGA-AG-3901-01		FEMALE	67	Stage IIIB	Primary Tumor
+TCGA-NH-A6GC-01	TCGA-NH-A6GC-01		FEMALE	66	Stage IVB	Primary Tumor
+TCGA-AG-3602-01	TCGA-AG-3602-01		FEMALE	66	Stage IIIC	Primary Tumor
+TCGA-G4-6304-01	TCGA-G4-6304-01		FEMALE	66	Stage IIB	Primary Tumor
+TCGA-AG-3882-01	TCGA-AG-3882-01		FEMALE	66	Stage I	Primary Tumor
+TCGA-AG-3891-01	TCGA-AG-3891-01		FEMALE	66	Stage I	Primary Tumor
+TCGA-AA-3684-01	TCGA-AA-3684-01		FEMALE	65	Stage IV	Primary Tumor
+TCGA-EI-6512-01	TCGA-EI-6512-01		FEMALE	64	Stage IIIB	Primary Tumor
+TCGA-AA-A00R-01	TCGA-AA-A00R-01		FEMALE	64	Stage I	Primary Tumor
+TCGA-AG-A015-01	TCGA-AG-A015-01		FEMALE	64	Stage I	Primary Tumor
+TCGA-CM-6678-01	TCGA-CM-6678-01		FEMALE	63	Stage IVA	Primary Tumor
+TCGA-AA-3695-01	TCGA-AA-3695-01		FEMALE	63	Stage IV	Primary Tumor
+TCGA-CM-5861-01	TCGA-CM-5861-01		FEMALE	63	Stage IIA	Primary Tumor
+TCGA-AG-3726-01	TCGA-AG-3726-01		FEMALE	63	Stage I	Primary Tumor
+TCGA-AY-4071-01	TCGA-AY-4071-01		FEMALE	63	Stage I	Primary Tumor
+TCGA-AG-A023-01	TCGA-AG-A023-01		FEMALE	62	Stage IV	Primary Tumor
+TCGA-DC-5869-01	TCGA-DC-5869-01		FEMALE	62	Stage IIIB	Primary Tumor
+TCGA-AG-A025-01	TCGA-AG-A025-01		FEMALE	62	Stage I	Primary Tumor
+TCGA-AA-3984-01	TCGA-AA-3984-01		FEMALE	61	Stage IIA	Primary Tumor
+TCGA-F4-6459-01	TCGA-F4-6459-01		FEMALE	61	Stage IIIB	Primary Tumor
+TCGA-G4-6321-01	TCGA-G4-6321-01		FEMALE	60	Stage III	Primary Tumor
+TCGA-DM-A282-01	TCGA-DM-A282-01		FEMALE	60	Stage IIA	Primary Tumor
+TCGA-CM-5863-01	TCGA-CM-5863-01		FEMALE	60	Stage IIIB	Primary Tumor
+TCGA-AM-5820-01	TCGA-AM-5820-01		FEMALE	59	Stage IVA	Primary Tumor
+TCGA-CM-5868-01	TCGA-CM-5868-01		FEMALE	59	Stage IVA	Primary Tumor
+TCGA-AG-A01J-01	TCGA-AG-A01J-01		FEMALE	59	Stage IIA	Primary Tumor
+TCGA-EI-6514-01	TCGA-EI-6514-01		FEMALE	59	Stage IIA	Primary Tumor
+TCGA-G4-6588-01	TCGA-G4-6588-01		FEMALE	58	Stage IIA	Primary Tumor
+TCGA-AG-A020-11	TCGA-AG-A020-11		FEMALE	57	Stage III	Solid Tissue Normal
+TCGA-AG-A020-01	TCGA-AG-A020-01		FEMALE	57	Stage III	Primary Tumor
+TCGA-DC-6154-01	TCGA-DC-6154-01		FEMALE	57	Stage IVA	Primary Tumor
+TCGA-CM-6167-01	TCGA-CM-6167-01		FEMALE	57	Stage IIIC	Primary Tumor
+TCGA-A6-2683-11	TCGA-A6-2683-11		FEMALE	57	Stage IV	Solid Tissue Normal
+TCGA-A6-2683-01	TCGA-A6-2683-01		FEMALE	57	Stage IV	Primary Tumor
+TCGA-EI-6885-01	TCGA-EI-6885-01		FEMALE	57	Stage IV	Primary Tumor
+TCGA-DY-A0XA-01	TCGA-DY-A0XA-01		FEMALE	57	Stage IIA	Primary Tumor
+TCGA-DY-A1DE-01	TCGA-DY-A1DE-01		FEMALE	56	Stage IIA	Primary Tumor
+TCGA-G4-6297-11	TCGA-G4-6297-11		FEMALE	55	Stage IV	Solid Tissue Normal
+TCGA-G4-6297-01	TCGA-G4-6297-01		FEMALE	55	Stage IV	Primary Tumor
+TCGA-A6-6651-01	TCGA-A6-6651-01		FEMALE	55	Stage IIIB	Primary Tumor
+TCGA-G4-6303-01	TCGA-G4-6303-01		FEMALE	54	Stage IV	Primary Tumor
+TCGA-AF-2692-11	TCGA-AF-2692-11		FEMALE	54	Stage IIA	Solid Tissue Normal
+TCGA-AF-2692-01	TCGA-AF-2692-01		FEMALE	54	Stage IIA	Primary Tumor
+TCGA-A6-3807-11	TCGA-A6-3807-11		FEMALE	53	Stage IIIC	Solid Tissue Normal
+TCGA-A6-3807-01	TCGA-A6-3807-01		FEMALE	53	Stage IIIC	Primary Tumor
+TCGA-CI-6624-01	TCGA-CI-6624-01		FEMALE	53	Stage I	Primary Tumor
+TCGA-F4-6809-01	TCGA-F4-6809-01		FEMALE	52	Stage IVA	Primary Tumor
+TCGA-G4-6317-02	TCGA-G4-6317-02		FEMALE	51	Stage IIIC	Recurrent Tumor
+TCGA-G4-6317-01	TCGA-G4-6317-01		FEMALE	51	Stage IIIC	Primary Tumor
+TCGA-D5-6898-01	TCGA-D5-6898-01		FEMALE	51	Stage I	Primary Tumor
+TCGA-AY-4070-01	TCGA-AY-4070-01		FEMALE	50	Stage IIIC	Primary Tumor
+TCGA-DM-A1D8-01	TCGA-DM-A1D8-01		FEMALE	50		Primary Tumor
+TCGA-AG-A01Y-11	TCGA-AG-A01Y-11		FEMALE	49	Stage II	Solid Tissue Normal
+TCGA-AG-A01Y-01	TCGA-AG-A01Y-01		FEMALE	49	Stage II	Primary Tumor
+TCGA-D5-6929-01	TCGA-D5-6929-01		FEMALE	49	Stage IV	Primary Tumor
+TCGA-AA-A01Q-01	TCGA-AA-A01Q-01		FEMALE	48	Stage II	Primary Tumor
+TCGA-CK-4952-01	TCGA-CK-4952-01		FEMALE	48	Stage IIIC	Primary Tumor
+TCGA-A6-2685-11	TCGA-A6-2685-11		FEMALE	48	Stage IIA	Solid Tissue Normal
+TCGA-A6-2685-01	TCGA-A6-2685-01		FEMALE	48	Stage IIA	Primary Tumor
+TCGA-CM-6162-01	TCGA-CM-6162-01		FEMALE	48	Stage IIIB	Primary Tumor
+TCGA-EI-6508-01	TCGA-EI-6508-01		FEMALE	48	Stage IIIB	Primary Tumor
+TCGA-CM-6166-01	TCGA-CM-6166-01		FEMALE	48	Stage I	Primary Tumor
+TCGA-AA-A01S-11	TCGA-AA-A01S-11		FEMALE	47	Stage III	Solid Tissue Normal
+TCGA-AA-A01S-01	TCGA-AA-A01S-01		FEMALE	47	Stage III	Primary Tumor
+TCGA-CM-6164-01	TCGA-CM-6164-01		FEMALE	46	Stage IIA	Primary Tumor
+TCGA-D5-6539-01	TCGA-D5-6539-01		FEMALE	45	[Discrepancy]	Primary Tumor
+TCGA-CK-6748-01	TCGA-CK-6748-01		FEMALE	45	Stage IV	Primary Tumor
+TCGA-F4-6461-01	TCGA-F4-6461-01		FEMALE	41	Stage IIIC	Primary Tumor
+TCGA-AF-2689-11	TCGA-AF-2689-11		FEMALE	41	Stage IV	Solid Tissue Normal
+TCGA-AF-2689-01	TCGA-AF-2689-01		FEMALE	41	Stage IV	Primary Tumor
+TCGA-CM-5344-01	TCGA-CM-5344-01		FEMALE	39	Stage IIIB	Primary Tumor
+TCGA-EI-7004-01	TCGA-EI-7004-01		FEMALE	37	[Discrepancy]	Primary Tumor
+TCGA-G4-6307-01	TCGA-G4-6307-01		FEMALE	37	Stage IIIB	Primary Tumor
+TCGA-CM-6161-01	TCGA-CM-6161-01		FEMALE	36	Stage I	Primary Tumor
+TCGA-DC-6155-01	TCGA-DC-6155-01		FEMALE	31	Stage IIIA	Primary Tumor
+TCGA-5M-AAT5-01	TCGA-5M-AAT5-01					Primary Tumor
+TCGA-5M-AATA-01	TCGA-5M-AATA-01					Primary Tumor
+TCGA-DM-A286-01	TCGA-DM-A286-01					Primary Tumor
+TCGA-F4-6857-01	TCGA-F4-6857-01					Primary Tumor
+TCGA-F5-6810-01	TCGA-F5-6810-01					Primary Tumor
+TCGA-AF-6784-01	TCGA-AF-6784-01					
