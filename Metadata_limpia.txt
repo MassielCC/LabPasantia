@@ -1,0 +1,102 @@
+sample	samples	primary_therapy_outcome_success	gender	age_at_initial_pathologic_diagnosis	pathologic_stage	sample_type
+TCGA-AA-A01C-01	TCGA-AA-A01C-01	[Discrepancy]	MALE	75.0	Stage IIIA	Primary Tumor
+TCGA-CM-4747-01	TCGA-CM-4747-01	[Discrepancy]	MALE	47.0	Stage IVA	Primary Tumor
+TCGA-AG-A032-01	TCGA-AG-A032-01	Partial Remission/Response	MALE	68.0	Stage IIIB	Primary Tumor
+TCGA-AA-A01R-11	TCGA-AA-A01R-11	Partial Remission/Response	MALE	47.0	Stage III	Solid Tissue Normal
+TCGA-AA-A01R-01	TCGA-AA-A01R-01	Partial Remission/Response	MALE	47.0	Stage III	Primary Tumor
+TCGA-AG-A01N-01	TCGA-AG-A01N-01	Partial Remission/Response	FEMALE	68.0	Stage IV	Primary Tumor
+TCGA-AA-3688-01	TCGA-AA-3688-01	Progressive Disease	MALE	80.0	Stage IV	Primary Tumor
+TCGA-AG-A00H-01	TCGA-AG-A00H-01	Progressive Disease	MALE	75.0	Stage IIA	Primary Tumor
+TCGA-AZ-6601-11	TCGA-AZ-6601-11	Progressive Disease	MALE	68.0	Stage II	Solid Tissue Normal
+TCGA-AZ-6601-01	TCGA-AZ-6601-01	Progressive Disease	MALE	68.0	Stage II	Primary Tumor
+TCGA-AD-6964-01	TCGA-AD-6964-01	Progressive Disease	MALE	58.0		Primary Tumor
+TCGA-AA-A02K-01	TCGA-AA-A02K-01	Progressive Disease	MALE	50.0	Stage IV	Primary Tumor
+TCGA-AG-3999-01	TCGA-AG-3999-01	Progressive Disease	FEMALE	61.0	Stage IIIC	Primary Tumor
+TCGA-A6-A566-01	TCGA-A6-A566-01	Progressive Disease	FEMALE	55.0	Stage IIIB	Primary Tumor
+TCGA-AA-A01D-01	TCGA-AA-A01D-01	Progressive Disease	FEMALE	47.0	Stage IIIC	Primary Tumor
+TCGA-AA-3692-01	TCGA-AA-3692-01	Progressive Disease	FEMALE	47.0	Stage IV	Primary Tumor
+TCGA-A6-A565-01	TCGA-A6-A565-01	Progressive Disease	FEMALE	34.0	Stage IIIC	Primary Tumor
+TCGA-AA-3675-01	TCGA-AA-3675-01	Complete Remission/Response	MALE	84.0	Stage II	Primary Tumor
+TCGA-A6-5659-01	TCGA-A6-5659-01	Complete Remission/Response	MALE	82.0	Stage I	Primary Tumor
+TCGA-AA-3495-11	TCGA-AA-3495-11	Complete Remission/Response	MALE	79.0	Stage I	Solid Tissue Normal
+TCGA-AA-3495-01	TCGA-AA-3495-01	Complete Remission/Response	MALE	79.0	Stage I	Primary Tumor
+TCGA-AA-A01I-01	TCGA-AA-A01I-01	Complete Remission/Response	MALE	76.0	Stage I	Primary Tumor
+TCGA-A6-6780-01	TCGA-A6-6780-01	Complete Remission/Response	MALE	74.0	Stage IIA	Primary Tumor
+TCGA-AG-3893-01	TCGA-AG-3893-01	Complete Remission/Response	MALE	74.0	Stage IIIB	Primary Tumor
+TCGA-A6-5656-01	TCGA-A6-5656-01	Complete Remission/Response	MALE	74.0	Stage I	Primary Tumor
+TCGA-AG-3728-01	TCGA-AG-3728-01	Complete Remission/Response	MALE	73.0	Stage IIIB	Primary Tumor
+TCGA-AA-3502-11	TCGA-AA-3502-11	Complete Remission/Response	MALE	73.0	Stage I	Solid Tissue Normal
+TCGA-AA-3502-01	TCGA-AA-3502-01	Complete Remission/Response	MALE	73.0	Stage I	Primary Tumor
+TCGA-AA-A02Y-01	TCGA-AA-A02Y-01	Complete Remission/Response	MALE	73.0	Stage I	Primary Tumor
+TCGA-AA-3861-01	TCGA-AA-3861-01	Complete Remission/Response	MALE	72.0	Stage IIA	Primary Tumor
+TCGA-A6-2674-01	TCGA-A6-2674-01	Complete Remission/Response	MALE	71.0	Stage IV	Primary Tumor
+TCGA-AA-3510-11	TCGA-AA-3510-11	Complete Remission/Response	MALE	70.0	Stage II	Solid Tissue Normal
+TCGA-AA-3510-01	TCGA-AA-3510-01	Complete Remission/Response	MALE	70.0	Stage II	Primary Tumor
+TCGA-AA-A00Z-01	TCGA-AA-A00Z-01	Complete Remission/Response	MALE	70.0	Stage IIA	Primary Tumor
+TCGA-AA-3558-01	TCGA-AA-3558-01	Complete Remission/Response	MALE	70.0	Stage I	Primary Tumor
+TCGA-AA-3685-01	TCGA-AA-3685-01	Complete Remission/Response	MALE	69.0	Stage II	Primary Tumor
+TCGA-AA-3994-01	TCGA-AA-3994-01	Complete Remission/Response	MALE	69.0	Stage IIIB	Primary Tumor
+TCGA-NH-A50V-01	TCGA-NH-A50V-01	Complete Remission/Response	MALE	69.0	Stage IIIB	Primary Tumor
+TCGA-AA-3549-01	TCGA-AA-3549-01	Complete Remission/Response	MALE	69.0	Stage I	Primary Tumor
+TCGA-CM-4744-01	TCGA-CM-4744-01	Complete Remission/Response	MALE	69.0	Stage I	Primary Tumor
+TCGA-AG-A00Y-01	TCGA-AG-A00Y-01	Complete Remission/Response	MALE	68.0	Stage IIA	Primary Tumor
+TCGA-AA-3970-01	TCGA-AA-3970-01	Complete Remission/Response	MALE	65.0	Stage IIA	Primary Tumor
+TCGA-AG-3894-01	TCGA-AG-3894-01	Complete Remission/Response	MALE	65.0	Stage IIA	Primary Tumor
+TCGA-AA-3977-01	TCGA-AA-3977-01	Complete Remission/Response	MALE	65.0		Primary Tumor
+TCGA-AG-4005-01	TCGA-AG-4005-01	Complete Remission/Response	MALE	64.0	Stage IV	Primary Tumor
+TCGA-AA-A01G-01	TCGA-AA-A01G-01	Complete Remission/Response	MALE	63.0	Stage IIA	Primary Tumor
+TCGA-AG-4008-01	TCGA-AG-4008-01	Complete Remission/Response	MALE	63.0	Stage IIA	Primary Tumor
+TCGA-A6-3810-11	TCGA-A6-3810-11	Complete Remission/Response	MALE	62.0	Stage IIA	Solid Tissue Normal
+TCGA-A6-3810-01	TCGA-A6-3810-01	Complete Remission/Response	MALE	62.0	Stage IIA	Primary Tumor
+TCGA-CM-4746-01	TCGA-CM-4746-01	Complete Remission/Response	MALE	61.0	Stage I	Primary Tumor
+TCGA-QG-A5Z2-01	TCGA-QG-A5Z2-01	Complete Remission/Response	MALE	61.0	Stage I	Primary Tumor
+TCGA-CM-4752-01	TCGA-CM-4752-01	Complete Remission/Response	MALE	58.0	Stage IIA	Primary Tumor
+TCGA-CA-6717-01	TCGA-CA-6717-01	Complete Remission/Response	MALE	57.0	Stage IIA	Primary Tumor
+TCGA-F5-6814-01	TCGA-F5-6814-01	Complete Remission/Response	MALE	57.0	Stage IIA	Primary Tumor
+TCGA-A6-A56B-01	TCGA-A6-A56B-01	Complete Remission/Response	MALE	57.0	Stage IIIB	Primary Tumor
+TCGA-CM-4748-01	TCGA-CM-4748-01	Complete Remission/Response	MALE	53.0	Stage IIIB	Primary Tumor
+TCGA-AD-A5EK-01	TCGA-AD-A5EK-01	Complete Remission/Response	MALE	51.0	Stage I	Primary Tumor
+TCGA-AA-A00U-01	TCGA-AA-A00U-01	Complete Remission/Response	MALE	50.0	Stage IIIB	Primary Tumor
+TCGA-CA-6718-01	TCGA-CA-6718-01	Complete Remission/Response	MALE	46.0	Stage IIA	Primary Tumor
+TCGA-A6-6781-01	TCGA-A6-6781-01	Complete Remission/Response	MALE	43.0	Stage IIIC	Primary Tumor
+TCGA-AG-A002-01	TCGA-AG-A002-01	Complete Remission/Response	MALE	35.0	Stage I	Primary Tumor
+TCGA-AA-3812-01	TCGA-AA-3812-01	Complete Remission/Response	FEMALE	82.0	Stage IIA	Primary Tumor
+TCGA-AA-3555-01	TCGA-AA-3555-01	Complete Remission/Response	FEMALE	81.0	Stage IIA	Primary Tumor
+TCGA-AZ-4681-01	TCGA-AZ-4681-01	Complete Remission/Response	FEMALE	79.0	Stage IIA	Primary Tumor
+TCGA-AA-3534-01	TCGA-AA-3534-01	Complete Remission/Response	FEMALE	78.0	Stage IIA	Primary Tumor
+TCGA-AA-3681-01	TCGA-AA-3681-01	Complete Remission/Response	FEMALE	77.0	Stage III	Primary Tumor
+TCGA-A6-2676-01	TCGA-A6-2676-01	Complete Remission/Response	FEMALE	75.0	Stage IIB	Primary Tumor
+TCGA-AA-A01K-01	TCGA-AA-A01K-01	Complete Remission/Response	FEMALE	74.0	Stage IIIC	Primary Tumor
+TCGA-AY-A54L-01	TCGA-AY-A54L-01	Complete Remission/Response	FEMALE	74.0	Stage I	Primary Tumor
+TCGA-A6-2679-01	TCGA-A6-2679-01	Complete Remission/Response	FEMALE	73.0	Stage IIB	Primary Tumor
+TCGA-A6-2681-01	TCGA-A6-2681-01	Complete Remission/Response	FEMALE	73.0	Stage IIA	Primary Tumor
+TCGA-AA-A02W-01	TCGA-AA-A02W-01	Complete Remission/Response	FEMALE	73.0	Stage I	Primary Tumor
+TCGA-A6-2680-01	TCGA-A6-2680-01	Complete Remission/Response	FEMALE	72.0	Stage II	Primary Tumor
+TCGA-AG-3593-01	TCGA-AG-3593-01	Complete Remission/Response	FEMALE	72.0	Stage IIA	Primary Tumor
+TCGA-AA-3548-01	TCGA-AA-3548-01	Complete Remission/Response	FEMALE	71.0	Stage IIIC	Primary Tumor
+TCGA-AG-3885-01	TCGA-AG-3885-01	Complete Remission/Response	FEMALE	71.0	Stage IIIB	Primary Tumor
+TCGA-AG-3909-01	TCGA-AG-3909-01	Complete Remission/Response	FEMALE	69.0	Stage IIIB	Primary Tumor
+TCGA-NH-A50T-01	TCGA-NH-A50T-01	Complete Remission/Response	FEMALE	68.0	Stage IIA	Primary Tumor
+TCGA-AA-A00Q-01	TCGA-AA-A00Q-01	Complete Remission/Response	FEMALE	66.0	Stage IIIB	Primary Tumor
+TCGA-AA-A03J-11	TCGA-AA-A03J-11	Complete Remission/Response	FEMALE	65.0	Stage I	Solid Tissue Normal
+TCGA-AA-A03J-01	TCGA-AA-A03J-01	Complete Remission/Response	FEMALE	65.0	Stage I	Primary Tumor
+TCGA-QG-A5YV-01	TCGA-QG-A5YV-01	Complete Remission/Response	FEMALE	64.0	Stage IIIC	Primary Tumor
+TCGA-AA-A01T-11	TCGA-AA-A01T-11	Complete Remission/Response	FEMALE	63.0	Stage III	Solid Tissue Normal
+TCGA-AA-A01T-01	TCGA-AA-A01T-01	Complete Remission/Response	FEMALE	63.0	Stage III	Primary Tumor
+TCGA-QG-A5YX-01	TCGA-QG-A5YX-01	Complete Remission/Response	FEMALE	61.0	Stage IIA	Primary Tumor
+TCGA-AA-3553-01	TCGA-AA-3553-01	Complete Remission/Response	FEMALE	61.0	Stage I	Primary Tumor
+TCGA-AA-3947-01	TCGA-AA-3947-01	Complete Remission/Response	FEMALE	60.0	Stage IIB	Primary Tumor
+TCGA-AG-3892-01	TCGA-AG-3892-01	Complete Remission/Response	FEMALE	57.0	Stage I	Primary Tumor
+TCGA-QG-A5YW-01	TCGA-QG-A5YW-01	Complete Remission/Response	FEMALE	55.0	Stage IIIC	Primary Tumor
+TCGA-AA-3968-01	TCGA-AA-3968-01	Complete Remission/Response	FEMALE	55.0	Stage I	Primary Tumor
+TCGA-AA-3509-11	TCGA-AA-3509-11	Complete Remission/Response	FEMALE	54.0	Stage II	Solid Tissue Normal
+TCGA-AA-3509-01	TCGA-AA-3509-01	Complete Remission/Response	FEMALE	54.0	Stage II	Primary Tumor
+TCGA-CA-5256-01	TCGA-CA-5256-01	Complete Remission/Response	FEMALE	54.0	Stage IIA	Primary Tumor
+TCGA-AZ-4313-01	TCGA-AZ-4313-01	Complete Remission/Response	FEMALE	51.0	Stage I	Primary Tumor
+TCGA-AG-A008-01	TCGA-AG-A008-01	Complete Remission/Response	FEMALE	50.0	Stage I	Primary Tumor
+TCGA-AG-A00C-01	TCGA-AG-A00C-01	Complete Remission/Response	FEMALE	49.0	Stage IIIB	Primary Tumor
+TCGA-AF-2691-01	TCGA-AF-2691-01	Complete Remission/Response	FEMALE	48.0	Stage I	Primary Tumor
+TCGA-AZ-4308-01	TCGA-AZ-4308-01	Complete Remission/Response	FEMALE	47.0	Stage IIIB	Primary Tumor
+TCGA-AA-A010-01	TCGA-AA-A010-01	Complete Remission/Response	FEMALE	46.0	Stage IIB	Primary Tumor
+TCGA-A6-2678-01	TCGA-A6-2678-01	Complete Remission/Response	FEMALE	43.0	Stage IIIB	Primary Tumor
+TCGA-CM-4750-01	TCGA-CM-4750-01	Complete Remission/Response	FEMALE	34.0	Stage IIIA	Primary Tumor
